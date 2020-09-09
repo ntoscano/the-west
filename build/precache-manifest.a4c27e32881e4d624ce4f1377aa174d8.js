@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5f2c3bcf465073aa61575657b0781b2",
+    "revision": "17bae926f739e41ad523d1e06939a81d",
     "url": "/the-west/index.html"
   },
   {
-    "revision": "0f46f1cc22c1c1cf5655",
+    "revision": "db02115a5fcf6fc852ab",
     "url": "/the-west/static/css/main.ca02da1d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/the-west/static/js/2.16a8c40a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f46f1cc22c1c1cf5655",
-    "url": "/the-west/static/js/main.fcf9e1b4.chunk.js"
+    "revision": "db02115a5fcf6fc852ab",
+    "url": "/the-west/static/js/main.9dc62178.chunk.js"
   },
   {
     "revision": "08d45ca952d0fe008879",

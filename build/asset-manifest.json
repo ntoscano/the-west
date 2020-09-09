@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/the-west/static/css/main.ca02da1d.chunk.css",
-    "main.js": "/the-west/static/js/main.fcf9e1b4.chunk.js",
-    "main.js.map": "/the-west/static/js/main.fcf9e1b4.chunk.js.map",
+    "main.js": "/the-west/static/js/main.9dc62178.chunk.js",
+    "main.js.map": "/the-west/static/js/main.9dc62178.chunk.js.map",
     "runtime-main.js": "/the-west/static/js/runtime-main.1070585a.js",
     "runtime-main.js.map": "/the-west/static/js/runtime-main.1070585a.js.map",
     "static/js/2.16a8c40a.chunk.js": "/the-west/static/js/2.16a8c40a.chunk.js",
     "static/js/2.16a8c40a.chunk.js.map": "/the-west/static/js/2.16a8c40a.chunk.js.map",
     "index.html": "/the-west/index.html",
-    "precache-manifest.082a727f316206a066ef122e848c233d.js": "/the-west/precache-manifest.082a727f316206a066ef122e848c233d.js",
+    "precache-manifest.a4c27e32881e4d624ce4f1377aa174d8.js": "/the-west/precache-manifest.a4c27e32881e4d624ce4f1377aa174d8.js",
     "service-worker.js": "/the-west/service-worker.js",
     "static/css/main.ca02da1d.chunk.css.map": "/the-west/static/css/main.ca02da1d.chunk.css.map",
     "static/js/2.16a8c40a.chunk.js.LICENSE.txt": "/the-west/static/js/2.16a8c40a.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.1070585a.js",
     "static/js/2.16a8c40a.chunk.js",
     "static/css/main.ca02da1d.chunk.css",
-    "static/js/main.fcf9e1b4.chunk.js"
+    "static/js/main.9dc62178.chunk.js"
   ]
 }
