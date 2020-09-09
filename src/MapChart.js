@@ -219,6 +219,13 @@ const MapChart = () => {
 				<h2 id="conclusion">Conclusion</h2>
 				<p>The history of The West can not be understood by simply examining major events. Nor would the story be complete by focusing solely on statistical data. The history of any place is how major event affect a given place over time. The emotional toll of the World Wars are seen in the numbers of marriages following the soldiers return home. The rises in property value in desert areas are reflections of government works projects.</p>
 				<p>To understand History, we must understand the causes of major events, and their long lasting consequences. </p>
+				<h3 id="about-this-project">About This Project</h3>
+				<p>All census data was pulled from <a href="https://www.nhgis.org/">IPUMS NHGIS</a>. </p>
+				<p>The CSV files came individually for each year of data, and can be examined <a href="https://drive.google.com/drive/folders/1ic3wIJ_2k7kiHNirwUhZ4GBJyIjPnuqw?usp=sharing">here</a></p>
+				<p>This project is hosted through github pages. All source code for this project was written by me (Nicolas Toscano) and can be found <a href="https://github.com/ntoscano/the-west">here</a>.</p>
+				<p>I combined all years of land data and marriage data with javascript as seen in <a href="https://github.com/ntoscano/the-west/blob/master/cleaner.js">cleaner.js</a>.</p>
+				<p>I used google sheets for additional data cleanup, the sheet can be <a href="https://docs.google.com/spreadsheets/d/1it1id_mfqjPzspP9MKAUWZjMCK7fj1WS14TQ8f9-vbQ/edit?usp=sharing">found here</a>. </p>
+				<p>I would have liked to make use of additional data sets I acquired, such as one tracking infant mortality, or mortality rate categorized by race and county. However, each data set required a significant amount of processing and would have increased the complexity of the project without adding much substance.</p>
 
 			</div>
 			<div className="w-10 bl mt6">
