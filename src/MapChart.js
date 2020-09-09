@@ -1,11 +1,13 @@
 import React, { useState, useEffect } from "react";
 import { csv } from "d3-fetch";
 import { LineChart } from 'react-chartkick'
+import ds11 from "./ds11Parsed.csv"
+import ds237 from "./ds237Parsed.csv"
 import 'chart.js'
 
 
 const MapChart = () => {
-	const [data, setData] = useState([]);
+	const [stateData, setStateData] = useState([]);
 	const [state, setState] = useState("California");
 	const [county, setCounty] = useState("Alameda");
 	const [stateLineData, setStateLineData] = useState({});
@@ -14,7 +16,7 @@ const MapChart = () => {
 
 
 	useEffect(() => {
-		csv("/ds11parsed.csv").then(countiesLandData => {
+		csv(ds11).then(countiesLandData => {
 			const data = {};
 			countiesLandData.map((county) => {
 				if (!data[county.STATE]) {
@@ -48,6 +50,7 @@ const MapChart = () => {
 				stateLineData[year] = data[state].averageYearlyValue[year].value;
 			})
 			setStateLineData(stateLineData);
+
 			const countyLineData = {};
 			Object.keys(data[state].counties[county].averageYearlyValue).map((year) => {
 				countyLineData[year] = data[state].counties[county].averageYearlyValue[year];
@@ -55,7 +58,7 @@ const MapChart = () => {
 			setCountyLineData(countyLineData);
 			return data;
 		}).then((landData) => {
-			csv("/ds237parsed.csv").then(countiesMarriageData => {
+			csv(ds237).then(countiesMarriageData => {
 				const data = { ...landData };
 				countiesMarriageData.map((county) => {
 					if (!data[county.STATE]) {
@@ -83,15 +86,15 @@ const MapChart = () => {
 						data[county.STATE].divorces[county.YEAR] += (parseInt(county.DIVORCES) || 0);
 					}
 				})
-				setData(data);
+				setStateData(data);
 			})
 		});
 	}, []);
 
 	const displayStateLandData = (stateName) => {
 		const stateLineData = {}
-		Object.keys(data[stateName].averageYearlyValue).map((year) => {
-			stateLineData[year] = data[stateName].averageYearlyValue[year].value;
+		Object.keys(stateData[stateName].averageYearlyValue).map((year) => {
+			stateLineData[year] = stateData[stateName].averageYearlyValue[year].value;
 		})
 		setStateLineData(stateLineData);
 		return;
@@ -107,11 +110,11 @@ const MapChart = () => {
 			name: "Divorces",
 			data: {}
 		}
-		Object.keys(data[stateName].marriages).map((year) => {
-			marriages.data[year] = data[stateName].marriages[year];
+		Object.keys(stateData[stateName].marriages).map((year) => {
+			marriages.data[year] = stateData[stateName].marriages[year];
 		});
-		Object.keys(data[stateName].divorces).map((year) => {
-			divorces.data[year] = data[stateName].divorces[year];
+		Object.keys(stateData[stateName].divorces).map((year) => {
+			divorces.data[year] = stateData[stateName].divorces[year];
 		});
 		stateLineData.push(marriages);
 		stateLineData.push(divorces);
@@ -121,8 +124,8 @@ const MapChart = () => {
 
 	const displayCountyLandData = (countyName) => {
 		const countyLineData = {};
-		Object.keys(data[state].counties[countyName].averageYearlyValue).map((year) => {
-			countyLineData[year] = data[state].counties[countyName].averageYearlyValue[year];
+		Object.keys(stateData[state].counties[countyName].averageYearlyValue).map((year) => {
+			countyLineData[year] = stateData[state].counties[countyName].averageYearlyValue[year];
 		});
 		setCountyLineData(countyLineData);
 		return;
@@ -138,11 +141,11 @@ const MapChart = () => {
 			name: "Divorces",
 			data: {}
 		}
-		Object.keys(data[state].counties[countyName].marriages).map((year) => {
-			marriages.data[year] = data[state].counties[countyName].marriages[year];
+		Object.keys(stateData[state].counties[countyName].marriages).map((year) => {
+			marriages.data[year] = stateData[state].counties[countyName].marriages[year];
 		});
-		Object.keys(data[state].counties[countyName].divorces).map((year) => {
-			divorces.data[year] = data[state].counties[countyName].divorces[year];
+		Object.keys(stateData[state].counties[countyName].divorces).map((year) => {
+			divorces.data[year] = stateData[state].counties[countyName].divorces[year];
 		});
 		countyLineData.push(marriages);
 		countyLineData.push(divorces);
@@ -167,7 +170,7 @@ const MapChart = () => {
 										displayCountyLandData(regionName);
 									} else {
 										setState(regionName);
-										setCounty(Object.keys(data[regionName].counties)[0]);
+										setCounty(Object.keys(stateData[regionName].counties)[0]);
 										displayStateLandData(regionName);
 									}
 								} else if (selection === "marriage") {
@@ -176,7 +179,7 @@ const MapChart = () => {
 										displayCountyMarriageData(regionName);
 									} else {
 										setState(regionName);
-										setCounty(Object.keys(data[regionName].counties)[0]);
+										setCounty(Object.keys(stateData[regionName].counties)[0]);
 										displayStateMarriageData(regionName);
 									}
 								}
@@ -190,7 +193,7 @@ const MapChart = () => {
 		)
 	}
 
-	if (!data || !data[state]) {
+	if (!stateData || !stateData[state]) {
 		return (<div>loading</div>);
 	}
 
@@ -219,7 +222,7 @@ const MapChart = () => {
 
 			</div>
 			<div className="w-10 bl mt6">
-				{sideNav(data, false)}
+				{sideNav(stateData, false)}
 			</div>
 			<div className="w-100">
 				<div className="flex mt6 tc justify-center">
@@ -243,8 +246,8 @@ const MapChart = () => {
 						<div className="mt5 bt bl">
 							<div className="f3 mb3 tc mt2 justify-center">County: {county}</div>
 							<div className="flex">
-								<div className={"w-20 f3 mh2 h-100"} style={{ height: "400px" }}>
-									{sideNav(data[state].counties, true)}
+								<div className={"w-20 f3 mh2 h-100"} style={{ height: "500px" }}>
+									{sideNav(stateData[state].counties, true)}
 								</div>
 								<div className={"w-80 mt5"}>
 									{<LineChart data={countyLineData} />}
