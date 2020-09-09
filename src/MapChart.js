@@ -156,11 +156,11 @@ const MapChart = () => {
 
 	const sideNav = (region, isCounty) => {
 		return (
-			<div className={"flex-column h-100 overflow-hidden mb4 pb2"}>
-				<div className={"h-100" + (isCounty ? " overflow-y-scroll ba " : "")}>
+			<div className={"flex-column h-100 overflow-hidden mb4 pb2 f4"}>
+				<div className={"h-100" + (isCounty ? " overflow-y-scroll ba f6" : "")}>
 					{Object.keys(region).sort().map((regionName, index) => {
 						return (
-							<div key={index} className={"f4 ma2 pa2 tl bb " + isSelected(regionName)} onClick={() => {
+							<div key={index} className={" ma2 pa2 tl bb " + isSelected(regionName)} onClick={() => {
 								if (selection === "land") {
 									if (isCounty) {
 										setCounty(regionName);
@@ -198,11 +198,27 @@ const MapChart = () => {
 		<div className="flex">
 			<div className="bg-black-90 fixed w-100 ph3 pv3 pv4-ns ph4-m ph5-l absolute">
 				<nav className="f6 fw6 ttu tracked">
-					<a className="link dim white dib mr3" href="#" title="home">Home</a>
-					<a className="link dim white dib mr3" href="#data" title="data">Data</a>
+					<a className="link dim white dib mr3" href="#" title="head">A look at Real Estate Value of Farmland and Marriage/Divorce rates in The West</a>
 				</nav>
 			</div>
-			<div className="w-10 br mt6">
+			<div className="mt6 fl tl mh2 w-50">
+				<h1 id="overview">Overview</h1>
+				<p>The American West has been long seen as the land of opportunity. The Gold Rush of the mid 1800&#39;s sparked a mass migration westward, the American Public was inspired to manifest its destiny. This migration highlighted the need for federal involvement in facilitating access to California and the The West as a whole, such as with the Mail Act of 1857 and later the Railroad Act of 1862.</p>
+				<p>Patricia Limerick, a leading historian of The West, argues that real estate is the emotional center of the region, a stand-in for struggles over resources -- oil, water, minerals, etc. Therefore, this examination of the of the changes in the value of farmland over-time paint a deeper picture, indicative of greater issues at play.</p>
+				<p>This analysis attempted to find any correlation between trends in land value and marriage/divorce rates in The West at the county level. </p>
+				<h2 id="findings">Findings</h2>
+				<p>No significant statistical relationship was found comparing land value trends to marriage/divorce rates. </p>
+				<p>Examining the two metrics separately, however, shows significant relationships between historical events and the metrics under examination.</p>
+				<h3 id="marriage-divorce-rates">Marriage/Divorce Rates</h3>
+				<p>World War 1 and World War 2 show the greatest impact on marriage/divorce rates. However, across the board, in 1973 there is a dip in marriage rates, likely a result of the Supreme Court Case Row v Wade. We also see anomalies such as the dramatic spike in Nevada marriages following the founding of Las Vegas after World War 2.</p>
+				<h3 id="farm-land-value">Farm Land Value</h3>
+				<p>Similarly to marriage/divorce rates, the World Wars saw increases in population in The West, which saw an increase in land value. California counties, such as Inyo and Humboldt county saw dramatic increases in value in the later half of the 1920, then sharp drops. Trends like these can be explained by the formation of Water Districts increasing the viability of farmland, and the following Great Depression and New Deal legislation under F.D.R.</p>
+				<h2 id="conclusion">Conclusion</h2>
+				<p>The history of The West can not be understood by simply examining major events. Nor would the story be complete by focusing solely on statistical data. The history of any place is how major event affect a given place over time. The emotional toll of the World Wars are seen in the numbers of marriages following the soldiers return home. The rises in property value in desert areas are reflections of government works projects.</p>
+				<p>To understand History, we must understand the causes of major events, and their long lasting consequences. </p>
+
+			</div>
+			<div className="w-10 bl mt6">
 				{sideNav(data, false)}
 			</div>
 			<div className="w-100">
@@ -224,10 +240,10 @@ const MapChart = () => {
 						<div className={""}>
 							{<LineChart data={stateLineData} />}
 						</div>
-						<div className="mt5 bt">
+						<div className="mt5 bt bl">
 							<div className="f3 mb3 tc mt2 justify-center">County: {county}</div>
 							<div className="flex">
-								<div className={"w-10 f3 mh2 h-100"} style={{ height: "400px" }}>
+								<div className={"w-20 f3 mh2 h-100"} style={{ height: "400px" }}>
 									{sideNav(data[state].counties, true)}
 								</div>
 								<div className={"w-80 mt5"}>
