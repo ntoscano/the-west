@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be57222fb2843ecd26a33a0f98b837b4",
+    "revision": "f17ce187aba4b6c37b4e888bf4bbc3d3",
     "url": "/the-west/index.html"
   },
   {
-    "revision": "db02115a5fcf6fc852ab",
+    "revision": "cd842d23a300908fec92",
     "url": "/the-west/static/css/main.ca02da1d.chunk.css"
   },
   {
@@ -16,19 +16,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/the-west/static/js/2.16a8c40a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db02115a5fcf6fc852ab",
-    "url": "/the-west/static/js/main.9dc62178.chunk.js"
+    "revision": "cd842d23a300908fec92",
+    "url": "/the-west/static/js/main.65d9ce43.chunk.js"
   },
   {
     "revision": "08d45ca952d0fe008879",
     "url": "/the-west/static/js/runtime-main.1070585a.js"
   },
   {
-    "revision": "b9086c27d9329f62760ca258a2a702cd",
-    "url": "/the-west/static/media/ds11Parsed.b9086c27.csv"
+    "revision": "8138d2fa38e811ea5564972e8b886200",
+    "url": "/the-west/static/media/ds11Parsed.8138d2fa.csv"
   },
   {
-    "revision": "c98c7259f25b15d84b045ed43f211279",
-    "url": "/the-west/static/media/ds237Parsed.c98c7259.csv"
+    "revision": "adca37c7f4d14608696d48296aae78fc",
+    "url": "/the-west/static/media/ds237Parsed.adca37c7.csv"
   }
 ]);

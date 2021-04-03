@@ -1123,19 +1123,6 @@ YEAR,STATE,STATECODE,COUNTY,COUNTYCODE,AREANAME,AVERAGEVALUE
 1890,Texas,480,Young,5030,Young,4
 1890,Texas,480,Zapata,5050,Zapata,9
 1890,Texas,480,Zavala,5070,Zavala,2
-1900,Arizona Territory,45,Apache,15,Apache,9
-1900,Arizona Territory,45,Cochise,35,Cochise,10
-1900,Arizona Territory,45,Coconino,55,Coconino,4
-1900,Arizona Territory,45,Gila,75,Gila,8
-1900,Arizona Territory,45,Graham,95,Graham,9
-1900,Arizona Territory,45,Maricopa,135,Maricopa,35
-1900,Arizona Territory,45,Mohave,155,Mohave,24
-1900,Arizona Territory,45,Navajo,175,Navajo,1
-1900,Arizona Territory,45,Pima,195,Pima,10
-1900,Arizona Territory,45,Pinal,215,Pinal,12
-1900,Arizona Territory,45,Santa Cruz,235,Santa Cruz,9
-1900,Arizona Territory,45,Yavapai,255,Yavapai,13
-1900,Arizona Territory,45,Yuma,275,Yuma,12
 1900,California,60,Alameda,10,Alameda,81
 1900,California,60,Alpine,30,Alpine,16
 1900,California,60,Amador,50,Amador,13
@@ -1264,25 +1251,6 @@ YEAR,STATE,STATECODE,COUNTY,COUNTYCODE,AREANAME,AVERAGEVALUE
 1900,Nevada,320,Storey,290,Storey,29
 1900,Nevada,320,Washoe,310,Washoe,8
 1900,Nevada,320,White Pine,330,White Pine,6
-1900,New Mexico Territory,355,Bernalillo,35,Bernalillo,11
-1900,New Mexico Territory,355,Chaves,55,Chaves,14
-1900,New Mexico Territory,355,Colfax,75,Colfax,2
-1900,New Mexico Territory,355,Dona Ana,115,Dona Ana,22
-1900,New Mexico Territory,355,Eddy,135,Eddy,3
-1900,New Mexico Territory,355,Grant,155,Grant,2
-1900,New Mexico Territory,355,Guadalupe,175,Guadalupe,5
-1900,New Mexico Territory,355,Lincoln,195,Lincoln,8
-1900,New Mexico Territory,355,Mora,255,Mora,5
-1900,New Mexico Territory,355,Otero,275,Otero,10
-1900,New Mexico Territory,355,Rio Arriba,315,Rio Arriba,10
-1900,New Mexico Territory,355,San Juan,375,San Juan,17
-1900,New Mexico Territory,355,San Miguel,395,San Miguel,2
-1900,New Mexico Territory,355,Santa Fe,435,Santa Fe,3
-1900,New Mexico Territory,355,Sierra,455,Sierra,1
-1900,New Mexico Territory,355,Socorro,475,Socorro,6
-1900,New Mexico Territory,355,Taos,495,Taos,8
-1900,New Mexico Territory,355,Union,535,Union,4
-1900,New Mexico Territory,355,Valencia,555,Valencia,11
 1900,Oregon,410,Baker,10,Baker,15
 1900,Oregon,410,Benton,30,Benton,16
 1900,Oregon,410,Clackamas,50,Clackamas,27
@@ -1738,32 +1706,6 @@ YEAR,STATE,STATECODE,COUNTY,COUNTYCODE,AREANAME,AVERAGEVALUE
 1910,Nevada,320,Storey,290,Storey,50
 1910,Nevada,320,Washoe,310,Washoe,33
 1910,Nevada,320,White Pine,330,White Pine,12
-1910,New Mexico Territory,355,Bernalillo,35,Bernalillo,20
-1910,New Mexico Territory,355,Chaves,55,Chaves,15
-1910,New Mexico Territory,355,Colfax,75,Colfax,8
-1910,New Mexico Territory,355,Curry,95,Curry,10
-1910,New Mexico Territory,355,Dona Ana,115,Dona Ana,48
-1910,New Mexico Territory,355,Eddy,135,Eddy,27
-1910,New Mexico Territory,355,Grant,155,Grant,16
-1910,New Mexico Territory,355,Guadalupe,175,Guadalupe,8
-1910,New Mexico Territory,355,Lincoln,195,Lincoln,12
-1910,New Mexico Territory,355,Luna,215,Luna,13
-1910,New Mexico Territory,355,McKinley,235,Mckinley,6
-1910,New Mexico Territory,355,Mora,255,Mora,7
-1910,New Mexico Territory,355,Otero,275,Otero,18
-1910,New Mexico Territory,355,Quay,295,Quay,8
-1910,New Mexico Territory,355,Rio Arriba,315,Rio Arriba,10
-1910,New Mexico Territory,355,Roosevelt,335,Roosevelt,9
-1910,New Mexico Territory,355,Sandoval,355,Sandoval,7
-1910,New Mexico Territory,355,San Juan,375,San Juan,44
-1910,New Mexico Territory,355,San Miguel,395,San Miguel,7
-1910,New Mexico Territory,355,Santa Fe,435,Santa Fe,12
-1910,New Mexico Territory,355,Sierra,455,Sierra,4
-1910,New Mexico Territory,355,Socorro,475,Socorro,3
-1910,New Mexico Territory,355,Taos,495,Taos,22
-1910,New Mexico Territory,355,Torrance,515,Torrance,9
-1910,New Mexico Territory,355,Union,535,Union,5
-1910,New Mexico Territory,355,Valencia,555,Valencia,9
 1910,Oregon,410,Baker,10,Baker,41
 1910,Oregon,410,Benton,30,Benton,45
 1910,Oregon,410,Clackamas,50,Clackamas,90

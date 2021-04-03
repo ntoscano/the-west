@@ -45,16 +45,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1867,California,60,Tuolumne,Tuolumne,1090,,42,5
 1867,California,60,Yolo,Yolo,1130,,29,2
 1867,California,60,Yuba,Yuba,1150,,67,3
-1867,Colorado Territory,85,Arapahoe,Arapahoe,15,,,1
-1867,Colorado Territory,85,Clear Creek,Clear Creek,75,,5,2
-1867,Colorado Territory,85,Costilla,Costilla,115,,14,1
-1867,Colorado Territory,85,Douglas,Douglas,135,,2,
-1867,Colorado Territory,85,El Paso,El Paso,155,,3,
-1867,Colorado Territory,85,Fremont,Fremont,175,,9,
-1867,Colorado Territory,85,Gilpin,Gilpin,195,,34,
-1867,Colorado Territory,85,Larimer,Larimer,295,,4,
-1867,Colorado Territory,85,Pueblo,Pueblo,355,,3,
-1867,Colorado Territory,85,Weld,Weld,415,,4,
 1867,Nevada,320,Churchill,Churchill,10,,1,
 1867,Nevada,320,Douglas,Douglas,50,,,3
 1867,Nevada,320,Esmeralda,Esmeralda,90,,6,
@@ -66,7 +56,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1867,Nevada,320,Storey,Storey,290,,70,16
 1867,Nevada,320,Washoe,Washoe,310,,17,2
 1867,Nevada,320,White Pine,White Pine,330,3,,
-1867,New Mexico Territory,355,Mora,Mora,255,,,1
 1867,Oregon,410,Baker,Baker,10,,32,3
 1867,Oregon,410,Clackamas,Clackamas,50,,46,4
 1867,Oregon,410,Clatsop,Clatsop,70,,8,2
@@ -192,51 +181,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1867,Texas,480,Wilson,Wilson,4930,3,17,
 1867,Texas,480,Wise,Wise,4970,3,,
 1867,Texas,480,Wood,Wood,4990,3,,
-1867,Utah Territory,495,Box Elder,Box Elder,35,,,4
-1867,Utah Territory,495,Cache,Cache,55,,,10
-1867,Utah Territory,495,Davis,Davis,115,,,4
-1867,Utah Territory,495,Iron,Iron,295,,,2
-1867,Utah Territory,495,Juab,Juab,315,,,2
-1867,Utah Territory,495,Kane,Kane,335,,,1
-1867,Utah Territory,495,Millard,Millard,375,,,3
-1867,Utah Territory,495,Morgan,Morgan,395,,,1
-1867,Utah Territory,495,Salt Lake,Salt Lake,495,,,33
-1867,Utah Territory,495,Sanpete,Sanpete,535,,,5
-1867,Utah Territory,495,Summit,Summit,595,,,1
-1867,Utah Territory,495,Utah,Utah,675,,,8
-1867,Utah Territory,495,Weber,Weber,755,"48,49",,
-1867,Washington Territory,535,Asotin,Asotin,5,50,,
-1867,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1867,Washington Territory,535,Clallam,Clallam,35,50,,
-1867,Washington Territory,535,Clark,Clark,55,50,,10
-1867,Washington Territory,535,Columbia,Columbia,75,50,,
-1867,Washington Territory,535,Cowlitz,Cowlitz,95,50,,
-1867,Washington Territory,535,Garfield,Garfield,105,50,,
-1867,Washington Territory,535,Island,Island,115,50,,
-1867,Washington Territory,535,Jefferson,Jefferson,135,50,,2
-1867,Washington Territory,535,King,King,155,50,,5
-1867,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1867,Washington Territory,535,Klikatat,Klikatat,195,50,,
-1867,Washington Territory,535,Lewis,Lewis,215,50,,
-1867,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1867,Washington Territory,535,Mason,Mason,235,50,,
-1867,Washington Territory,535,Pacific,Pacific,255,50,,
-1867,Washington Territory,535,Pierce,Pierce,275,50,5,
-1867,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1867,Washington Territory,535,San Juan,San Juan,315,50,,
-1867,Washington Territory,535,Skagit,Skagit,335,50,,
-1867,Washington Territory,535,Skamania,Skamania,355,50,,
-1867,Washington Territory,535,Snohomish,Snohomish,395,50,,
-1867,Washington Territory,535,Spokane,Spokane,415,50,,
-1867,Washington Territory,535,Stevens,Stevens,435,50,,
-1867,Washington Territory,535,Thurston,Thurston,455,50,,2
-1867,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1867,Washington Territory,535,Walla Walla,Walla Walla,495,50,52,1
-1867,Washington Territory,535,Whatcom,Whatcom,515,50,,
-1867,Washington Territory,535,Whitman,Whitman,535,50,,
-1867,Washington Territory,535,Yakima,Yakima,555,50,,
-1868,Arizona Territory,45,Mohave,Mohave,155,,1,
-1868,Arizona Territory,45,Yavapai,Yavapai,255,,,1
 1868,California,60,Alameda,Alameda,10,,120,6
 1868,California,60,Alpine,Alpine,30,,1,3
 1868,California,60,Amador,Amador,50,,53,3
@@ -281,18 +225,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1868,California,60,Tuolumne,Tuolumne,1090,,37,5
 1868,California,60,Yolo,Yolo,1130,,50,3
 1868,California,60,Yuba,Yuba,1150,,108,7
-1868,Colorado Territory,85,Arapahoe,Arapahoe,15,,,8
-1868,Colorado Territory,85,Boulder,Boulder,55,,21,
-1868,Colorado Territory,85,Clear Creek,Clear Creek,75,,7,1
-1868,Colorado Territory,85,Costilla,Costilla,115,,11,
-1868,Colorado Territory,85,Douglas,Douglas,135,,5,
-1868,Colorado Territory,85,El Paso,El Paso,155,,3,
-1868,Colorado Territory,85,Fremont,Fremont,175,,8,
-1868,Colorado Territory,85,Gilpin,Gilpin,195,,38,
-1868,Colorado Territory,85,Jefferson,Jefferson,255,,5,
-1868,Colorado Territory,85,Larimer,Larimer,295,,9,
-1868,Colorado Territory,85,Pueblo,Pueblo,355,,18,
-1868,Colorado Territory,85,Weld,Weld,415,,5,
 1868,Nevada,320,Douglas,Douglas,50,,,5
 1868,Nevada,320,Esmeralda,Esmeralda,90,,7,
 1868,Nevada,320,Humboldt,Humboldt,130,,5,2
@@ -432,48 +364,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1868,Texas,480,Wilson,Wilson,4930,3,12,
 1868,Texas,480,Wise,Wise,4970,3,,
 1868,Texas,480,Wood,Wood,4990,3,,
-1868,Utah Territory,495,Box Elder,Box Elder,35,,,3
-1868,Utah Territory,495,Cache,Cache,55,,,2
-1868,Utah Territory,495,Davis,Davis,115,,,7
-1868,Utah Territory,495,Iron,Iron,295,,,1
-1868,Utah Territory,495,Juab,Juab,315,,,1
-1868,Utah Territory,495,Morgan,Morgan,395,,,1
-1868,Utah Territory,495,Salt Lake,Salt Lake,495,,,16
-1868,Utah Territory,495,Sanpete,Sanpete,535,,,4
-1868,Utah Territory,495,Utah,Utah,675,,,14
-1868,Utah Territory,495,Wasatch,Wasatch,715,,,1
-1868,Utah Territory,495,Weber,Weber,755,"48,49",,
-1868,Washington Territory,535,Asotin,Asotin,5,50,,
-1868,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1868,Washington Territory,535,Clallam,Clallam,35,50,,
-1868,Washington Territory,535,Clark,Clark,55,50,,17
-1868,Washington Territory,535,Columbia,Columbia,75,50,,
-1868,Washington Territory,535,Cowlitz,Cowlitz,95,50,,
-1868,Washington Territory,535,Garfield,Garfield,105,50,,
-1868,Washington Territory,535,Island,Island,115,50,,
-1868,Washington Territory,535,Jefferson,Jefferson,135,50,,2
-1868,Washington Territory,535,King,King,155,50,,
-1868,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1868,Washington Territory,535,Klikatat,Klikatat,195,50,,
-1868,Washington Territory,535,Lewis,Lewis,215,50,,
-1868,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1868,Washington Territory,535,Mason,Mason,235,50,,
-1868,Washington Territory,535,Pacific,Pacific,255,50,,
-1868,Washington Territory,535,Pierce,Pierce,275,50,9,3
-1868,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1868,Washington Territory,535,San Juan,San Juan,315,50,,
-1868,Washington Territory,535,Skagit,Skagit,335,50,,
-1868,Washington Territory,535,Skamania,Skamania,355,50,,
-1868,Washington Territory,535,Snohomish,Snohomish,395,50,,
-1868,Washington Territory,535,Spokane,Spokane,415,50,,
-1868,Washington Territory,535,Stevens,Stevens,435,50,,
-1868,Washington Territory,535,Thurston,Thurston,455,50,,3
-1868,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1868,Washington Territory,535,Walla Walla,Walla Walla,495,50,47,4
-1868,Washington Territory,535,Whatcom,Whatcom,515,50,,
-1868,Washington Territory,535,Whitman,Whitman,535,50,,
-1868,Washington Territory,535,Yakima,Yakima,555,50,,
-1869,Arizona Territory,45,Mohave,Mohave,155,,1,
 1869,California,60,Alameda,Alameda,10,,210,5
 1869,California,60,Alpine,Alpine,30,,,1
 1869,California,60,Amador,Amador,50,,52,8
@@ -520,20 +410,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1869,California,60,Tuolumne,Tuolumne,1090,,33,2
 1869,California,60,Yolo,Yolo,1130,,40,5
 1869,California,60,Yuba,Yuba,1150,,80,12
-1869,Colorado Territory,85,Arapahoe,Arapahoe,15,,,6
-1869,Colorado Territory,85,Boulder,Boulder,55,,16,
-1869,Colorado Territory,85,Clear Creek,Clear Creek,75,,7,2
-1869,Colorado Territory,85,Costilla,Costilla,115,,13,1
-1869,Colorado Territory,85,Douglas,Douglas,135,,13,
-1869,Colorado Territory,85,El Paso,El Paso,155,,10,
-1869,Colorado Territory,85,Fremont,Fremont,175,,12,
-1869,Colorado Territory,85,Gilpin,Gilpin,195,,29,
-1869,Colorado Territory,85,Jefferson,Jefferson,255,,18,
-1869,Colorado Territory,85,Lake,Lake,275,,3,
-1869,Colorado Territory,85,Larimer,Larimer,295,,8,
-1869,Colorado Territory,85,Pueblo,Pueblo,355,,24,
-1869,Colorado Territory,85,Saguache,Saguache,375,,1,
-1869,Colorado Territory,85,Weld,Weld,415,,3,
 1869,Nevada,320,Douglas,Douglas,50,,,1
 1869,Nevada,320,Elko,Elko,70,,10,
 1869,Nevada,320,Esmeralda,Esmeralda,90,,1,
@@ -545,9 +421,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1869,Nevada,320,Storey,Storey,290,,94,17
 1869,Nevada,320,Washoe,Washoe,310,,17,5
 1869,Nevada,320,White Pine,White Pine,330,3,,
-1869,New Mexico Territory,355,Colfax,Colfax,75,,,1
-1869,New Mexico Territory,355,Socorro,Socorro,475,,,1
-1869,New Mexico Territory,355,Taos,Taos,495,,,1
 1869,Oregon,410,Baker,Baker,10,,35,3
 1869,Oregon,410,Benton,Benton,30,,,4
 1869,Oregon,410,Clackamas,Clackamas,50,,44,11
@@ -681,50 +554,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1869,Texas,480,Wilson,Wilson,4930,3,14,
 1869,Texas,480,Wise,Wise,4970,3,,
 1869,Texas,480,Wood,Wood,4990,3,,
-1869,Utah Territory,495,Box Elder,Box Elder,35,,,11
-1869,Utah Territory,495,Cache,Cache,55,,,5
-1869,Utah Territory,495,Davis,Davis,115,,,4
-1869,Utah Territory,495,Iron,Iron,295,,,2
-1869,Utah Territory,495,Kane,Kane,335,,,1
-1869,Utah Territory,495,Morgan,Morgan,395,,,2
-1869,Utah Territory,495,Salt Lake,Salt Lake,495,,,33
-1869,Utah Territory,495,Sanpete,Sanpete,535,,,3
-1869,Utah Territory,495,Summit,Summit,595,,,2
-1869,Utah Territory,495,Utah,Utah,675,,,3
-1869,Utah Territory,495,Wasatch,Wasatch,715,,,1
-1869,Utah Territory,495,Washington,Washington,735,,,3
-1869,Utah Territory,495,Weber,Weber,755,"48,49",,
-1869,Washington Territory,535,Asotin,Asotin,5,50,,
-1869,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1869,Washington Territory,535,Clallam,Clallam,35,50,,
-1869,Washington Territory,535,Clark,Clark,55,50,,6
-1869,Washington Territory,535,Columbia,Columbia,75,50,,
-1869,Washington Territory,535,Cowlitz,Cowlitz,95,50,,
-1869,Washington Territory,535,Garfield,Garfield,105,50,,
-1869,Washington Territory,535,Island,Island,115,50,,
-1869,Washington Territory,535,Jefferson,Jefferson,135,50,,
-1869,Washington Territory,535,King,King,155,50,,1
-1869,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1869,Washington Territory,535,Klikatat,Klikatat,195,50,,
-1869,Washington Territory,535,Lewis,Lewis,215,50,,
-1869,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1869,Washington Territory,535,Mason,Mason,235,50,,
-1869,Washington Territory,535,Pacific,Pacific,255,50,,
-1869,Washington Territory,535,Pierce,Pierce,275,50,14,1
-1869,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1869,Washington Territory,535,San Juan,San Juan,315,50,,
-1869,Washington Territory,535,Skagit,Skagit,335,50,,
-1869,Washington Territory,535,Skamania,Skamania,355,50,,
-1869,Washington Territory,535,Snohomish,Snohomish,395,50,,
-1869,Washington Territory,535,Spokane,Spokane,415,50,,
-1869,Washington Territory,535,Stevens,Stevens,435,50,,
-1869,Washington Territory,535,Thurston,Thurston,455,50,,
-1869,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1869,Washington Territory,535,Walla Walla,Walla Walla,495,50,64,4
-1869,Washington Territory,535,Whatcom,Whatcom,515,50,,
-1869,Washington Territory,535,Whitman,Whitman,535,50,,
-1869,Washington Territory,535,Yakima,Yakima,555,50,,
-1870,Arizona Territory,45,Yavapai,Yavapai,255,,,1
 1870,California,60,Alameda,Alameda,10,,216,11
 1870,California,60,Alpine,Alpine,30,,4,
 1870,California,60,Amador,Amador,50,,36,3
@@ -772,22 +601,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1870,California,60,Tuolumne,Tuolumne,1090,,33,4
 1870,California,60,Yolo,Yolo,1130,,55,5
 1870,California,60,Yuba,Yuba,1150,,74,13
-1870,Colorado Territory,85,Arapahoe,Arapahoe,15,,,17
-1870,Colorado Territory,85,Bent,Bent,35,25,7,
-1870,Colorado Territory,85,Boulder,Boulder,55,,18,
-1870,Colorado Territory,85,Clear Creek,Clear Creek,75,,18,7
-1870,Colorado Territory,85,Costilla,Costilla,115,,21,1
-1870,Colorado Territory,85,Douglas,Douglas,135,,5,
-1870,Colorado Territory,85,El Paso,El Paso,155,,9,2
-1870,Colorado Territory,85,Fremont,Fremont,175,,4,
-1870,Colorado Territory,85,Gilpin,Gilpin,195,,52,
-1870,Colorado Territory,85,Greenwood,Greenwood,215,25,,
-1870,Colorado Territory,85,Jefferson,Jefferson,255,,17,
-1870,Colorado Territory,85,Lake,Lake,275,,3,
-1870,Colorado Territory,85,Larimer,Larimer,295,,9,
-1870,Colorado Territory,85,Pueblo,Pueblo,355,,22,3
-1870,Colorado Territory,85,Saguache,Saguache,375,,4,
-1870,Colorado Territory,85,Weld,Weld,415,,4,
 1870,Nevada,320,Churchill,Churchill,10,,1,
 1870,Nevada,320,Douglas,Douglas,50,,,1
 1870,Nevada,320,Elko,Elko,70,,10,3
@@ -799,7 +612,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1870,Nevada,320,Storey,Storey,290,,82,12
 1870,Nevada,320,Washoe,Washoe,310,,16,4
 1870,Nevada,320,White Pine,White Pine,330,3,,
-1870,New Mexico Territory,355,Socorro,Socorro,475,,,1
 1870,Oregon,410,Baker,Baker,10,,41,2
 1870,Oregon,410,Benton,Benton,30,,,5
 1870,Oregon,410,Clackamas,Clackamas,50,,36,1
@@ -935,51 +747,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1870,Texas,480,Wilson,Wilson,4930,3,30,
 1870,Texas,480,Wise,Wise,4970,3,,
 1870,Texas,480,Wood,Wood,4990,3,,
-1870,Utah Territory,495,Beaver,Beaver,15,,,1
-1870,Utah Territory,495,Box Elder,Box Elder,35,,,5
-1870,Utah Territory,495,Cache,Cache,55,,,3
-1870,Utah Territory,495,Davis,Davis,115,,,4
-1870,Utah Territory,495,Iron,Iron,295,,,2
-1870,Utah Territory,495,Juab,Juab,315,,,4
-1870,Utah Territory,495,Millard,Millard,375,,,4
-1870,Utah Territory,495,Morgan,Morgan,395,,,1
-1870,Utah Territory,495,Salt Lake,Salt Lake,495,,,31
-1870,Utah Territory,495,Sanpete,Sanpete,535,,,5
-1870,Utah Territory,495,Summit,Summit,595,,,2
-1870,Utah Territory,495,Utah,Utah,675,,,7
-1870,Utah Territory,495,Washington,Washington,735,,,4
-1870,Utah Territory,495,Weber,Weber,755,"48,49",,
-1870,Washington Territory,535,Asotin,Asotin,5,50,,
-1870,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1870,Washington Territory,535,Clallam,Clallam,35,50,,
-1870,Washington Territory,535,Clark,Clark,55,50,,4
-1870,Washington Territory,535,Columbia,Columbia,75,50,,
-1870,Washington Territory,535,Cowlitz,Cowlitz,95,50,,
-1870,Washington Territory,535,Garfield,Garfield,105,50,,
-1870,Washington Territory,535,Island,Island,115,50,,
-1870,Washington Territory,535,Jefferson,Jefferson,135,50,,1
-1870,Washington Territory,535,King,King,155,50,,4
-1870,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1870,Washington Territory,535,Klikatat,Klikatat,195,50,,
-1870,Washington Territory,535,Lewis,Lewis,215,50,,
-1870,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1870,Washington Territory,535,Mason,Mason,235,50,,
-1870,Washington Territory,535,Pacific,Pacific,255,50,,
-1870,Washington Territory,535,Pierce,Pierce,275,50,8,3
-1870,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1870,Washington Territory,535,San Juan,San Juan,315,50,,
-1870,Washington Territory,535,Skagit,Skagit,335,50,,
-1870,Washington Territory,535,Skamania,Skamania,355,50,,
-1870,Washington Territory,535,Snohomish,Snohomish,395,50,,
-1870,Washington Territory,535,Spokane,Spokane,415,50,,
-1870,Washington Territory,535,Stevens,Stevens,435,50,,
-1870,Washington Territory,535,Thurston,Thurston,455,50,,2
-1870,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1870,Washington Territory,535,Walla Walla,Walla Walla,495,50,53,1
-1870,Washington Territory,535,Whatcom,Whatcom,515,50,,
-1870,Washington Territory,535,Whitman,Whitman,535,50,,
-1870,Washington Territory,535,Yakima,Yakima,555,50,,
-1871,Arizona Territory,45,Yuma,Yuma,275,,,2
 1871,California,60,Alameda,Alameda,10,,213,8
 1871,California,60,Alpine,Alpine,30,,5,
 1871,California,60,Amador,Amador,50,,50,3
@@ -1026,20 +793,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1871,California,60,Tuolumne,Tuolumne,1090,,42,1
 1871,California,60,Yolo,Yolo,1130,,61,3
 1871,California,60,Yuba,Yuba,1150,,89,10
-1871,Colorado Territory,85,Arapahoe,Arapahoe,15,,,17
-1871,Colorado Territory,85,Bent,Bent,35,,9,
-1871,Colorado Territory,85,Boulder,Boulder,55,,17,1
-1871,Colorado Territory,85,Clear Creek,Clear Creek,75,,9,4
-1871,Colorado Territory,85,Costilla,Costilla,115,,18,1
-1871,Colorado Territory,85,Douglas,Douglas,135,,10,
-1871,Colorado Territory,85,El Paso,El Paso,155,,10,
-1871,Colorado Territory,85,Fremont,Fremont,175,,22,
-1871,Colorado Territory,85,Gilpin,Gilpin,195,,31,4
-1871,Colorado Territory,85,Jefferson,Jefferson,255,,16,
-1871,Colorado Territory,85,Lake,Lake,275,,7,
-1871,Colorado Territory,85,Larimer,Larimer,295,,6,
-1871,Colorado Territory,85,Pueblo,Pueblo,355,,25,1
-1871,Colorado Territory,85,Weld,Weld,415,,23,
 1871,Nevada,320,Douglas,Douglas,50,,,1
 1871,Nevada,320,Elko,Elko,70,,20,4
 1871,Nevada,320,Esmeralda,Esmeralda,90,,6,
@@ -1050,7 +803,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1871,Nevada,320,Storey,Storey,290,,81,18
 1871,Nevada,320,Washoe,Washoe,310,,36,3
 1871,Nevada,320,White Pine,White Pine,330,3,,
-1871,New Mexico Territory,355,Socorro,Socorro,475,,,1
 1871,Oregon,410,Baker,Baker,10,,46,4
 1871,Oregon,410,Benton,Benton,30,,,3
 1871,Oregon,410,Clackamas,Clackamas,50,,66,2
@@ -1189,51 +941,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1871,Texas,480,Wilson,Wilson,4930,3,53,
 1871,Texas,480,Wise,Wise,4970,3,,
 1871,Texas,480,Wood,Wood,4990,3,,
-1871,Utah Territory,495,Beaver,Beaver,15,,,4
-1871,Utah Territory,495,Box Elder,Box Elder,35,,,7
-1871,Utah Territory,495,Cache,Cache,55,,,3
-1871,Utah Territory,495,Davis,Davis,115,,,1
-1871,Utah Territory,495,Iron,Iron,295,,,1
-1871,Utah Territory,495,Juab,Juab,315,,,3
-1871,Utah Territory,495,Millard,Millard,375,,,3
-1871,Utah Territory,495,Salt Lake,Salt Lake,495,,,35
-1871,Utah Territory,495,Sanpete,Sanpete,535,,,8
-1871,Utah Territory,495,Summit,Summit,595,,,1
-1871,Utah Territory,495,Utah,Utah,675,,,5
-1871,Utah Territory,495,Wasatch,Wasatch,715,,,1
-1871,Utah Territory,495,Weber,Weber,755,"48,49",,
-1871,Washington Territory,535,Asotin,Asotin,5,50,,
-1871,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1871,Washington Territory,535,Clallam,Clallam,35,50,,
-1871,Washington Territory,535,Clark,Clark,55,50,,8
-1871,Washington Territory,535,Columbia,Columbia,75,50,,
-1871,Washington Territory,535,Cowlitz,Cowlitz,95,50,,
-1871,Washington Territory,535,Garfield,Garfield,105,50,,
-1871,Washington Territory,535,Island,Island,115,50,,
-1871,Washington Territory,535,Jefferson,Jefferson,135,50,,
-1871,Washington Territory,535,King,King,155,50,,7
-1871,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1871,Washington Territory,535,Klikatat,Klikatat,195,50,,
-1871,Washington Territory,535,Lewis,Lewis,215,50,,
-1871,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1871,Washington Territory,535,Mason,Mason,235,50,,
-1871,Washington Territory,535,Pacific,Pacific,255,50,,
-1871,Washington Territory,535,Pierce,Pierce,275,50,13,
-1871,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1871,Washington Territory,535,San Juan,San Juan,315,50,,
-1871,Washington Territory,535,Skagit,Skagit,335,50,,
-1871,Washington Territory,535,Skamania,Skamania,355,50,,
-1871,Washington Territory,535,Snohomish,Snohomish,395,50,,
-1871,Washington Territory,535,Spokane,Spokane,415,50,,
-1871,Washington Territory,535,Stevens,Stevens,435,50,,
-1871,Washington Territory,535,Thurston,Thurston,455,50,,4
-1871,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1871,Washington Territory,535,Walla Walla,Walla Walla,495,50,71,1
-1871,Washington Territory,535,Whatcom,Whatcom,515,50,,
-1871,Washington Territory,535,Whitman,Whitman,535,50,,
-1871,Washington Territory,535,Yakima,Yakima,555,50,,
-1872,Arizona Territory,45,Yavapai,Yavapai,255,,,1
-1872,Arizona Territory,45,Yuma,Yuma,275,,,1
 1872,California,60,Alameda,Alameda,10,,201,3
 1872,California,60,Alpine,Alpine,30,,5,1
 1872,California,60,Amador,Amador,50,,75,3
@@ -1279,21 +986,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1872,California,60,Tuolumne,Tuolumne,1090,,49,1
 1872,California,60,Yolo,Yolo,1130,,58,5
 1872,California,60,Yuba,Yuba,1150,,79,13
-1872,Colorado Territory,85,Arapahoe,Arapahoe,15,,,20
-1872,Colorado Territory,85,Bent,Bent,35,,9,
-1872,Colorado Territory,85,Boulder,Boulder,55,,16,
-1872,Colorado Territory,85,Clear Creek,Clear Creek,75,,12,
-1872,Colorado Territory,85,Costilla,Costilla,115,,19,2
-1872,Colorado Territory,85,Douglas,Douglas,135,,10,
-1872,Colorado Territory,85,El Paso,El Paso,155,,20,1
-1872,Colorado Territory,85,Fremont,Fremont,175,,39,
-1872,Colorado Territory,85,Gilpin,Gilpin,195,,45,9
-1872,Colorado Territory,85,Jefferson,Jefferson,255,,30,5
-1872,Colorado Territory,85,Lake,Lake,275,,2,
-1872,Colorado Territory,85,Larimer,Larimer,295,,8,
-1872,Colorado Territory,85,Pueblo,Pueblo,355,,43,5
-1872,Colorado Territory,85,Saguache,Saguache,375,,1,
-1872,Colorado Territory,85,Weld,Weld,415,,12,
 1872,Nevada,320,Douglas,Douglas,50,,,4
 1872,Nevada,320,Elko,Elko,70,,30,4
 1872,Nevada,320,Esmeralda,Esmeralda,90,,8,
@@ -1306,7 +998,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1872,Nevada,320,Storey,Storey,290,,69,12
 1872,Nevada,320,Washoe,Washoe,310,,24,3
 1872,Nevada,320,White Pine,White Pine,330,3,,
-1872,New Mexico Territory,355,Valencia,Valencia,555,,,1
 1872,Oregon,410,Baker,Baker,10,,38,4
 1872,Oregon,410,Benton,Benton,30,,,3
 1872,Oregon,410,Clackamas,Clackamas,50,,58,3
@@ -1448,51 +1139,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1872,Texas,480,Wilson,Wilson,4930,3,49,
 1872,Texas,480,Wise,Wise,4970,3,,
 1872,Texas,480,Wood,Wood,4990,3,,
-1872,Utah Territory,495,Beaver,Beaver,15,,,1
-1872,Utah Territory,495,Box Elder,Box Elder,35,,,9
-1872,Utah Territory,495,Cache,Cache,55,,,7
-1872,Utah Territory,495,Iron,Iron,295,,,2
-1872,Utah Territory,495,Juab,Juab,315,,,1
-1872,Utah Territory,495,Millard,Millard,375,,,4
-1872,Utah Territory,495,Morgan,Morgan,395,,,1
-1872,Utah Territory,495,Salt Lake,Salt Lake,495,,,51
-1872,Utah Territory,495,Sanpete,Sanpete,535,,,3
-1872,Utah Territory,495,Tooele,Tooele,615,,,1
-1872,Utah Territory,495,Utah,Utah,675,,,6
-1872,Utah Territory,495,Weber,Weber,755,"48,49",,
-1872,Washington Territory,535,Asotin,Asotin,5,50,,
-1872,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1872,Washington Territory,535,Clallam,Clallam,35,50,,
-1872,Washington Territory,535,Clark,Clark,55,50,,5
-1872,Washington Territory,535,Columbia,Columbia,75,50,,
-1872,Washington Territory,535,Cowlitz,Cowlitz,95,50,,1
-1872,Washington Territory,535,Garfield,Garfield,105,50,,
-1872,Washington Territory,535,Island,Island,115,50,,
-1872,Washington Territory,535,Jefferson,Jefferson,135,50,,2
-1872,Washington Territory,535,King,King,155,50,,7
-1872,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1872,Washington Territory,535,Klikatat,Klikatat,195,50,,
-1872,Washington Territory,535,Lewis,Lewis,215,50,,
-1872,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1872,Washington Territory,535,Mason,Mason,235,50,,
-1872,Washington Territory,535,Pacific,Pacific,255,50,,
-1872,Washington Territory,535,Pierce,Pierce,275,50,9,2
-1872,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1872,Washington Territory,535,San Juan,San Juan,315,50,,
-1872,Washington Territory,535,Skagit,Skagit,335,50,,
-1872,Washington Territory,535,Skamania,Skamania,355,50,,
-1872,Washington Territory,535,Snohomish,Snohomish,395,50,,
-1872,Washington Territory,535,Spokane,Spokane,415,50,,
-1872,Washington Territory,535,Stevens,Stevens,435,50,,
-1872,Washington Territory,535,Thurston,Thurston,455,50,,5
-1872,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1872,Washington Territory,535,Walla Walla,Walla Walla,495,50,70,7
-1872,Washington Territory,535,Whatcom,Whatcom,515,50,,
-1872,Washington Territory,535,Whitman,Whitman,535,50,2,
-1872,Washington Territory,535,Yakima,Yakima,555,50,,
-1873,Arizona Territory,45,Mohave,Mohave,155,,1,
-1873,Arizona Territory,45,Yavapai,Yavapai,255,,,1
-1873,Arizona Territory,45,Yuma,Yuma,275,,,2
 1873,California,60,Alameda,Alameda,10,,251,13
 1873,California,60,Alpine,Alpine,30,,3,5
 1873,California,60,Amador,Amador,50,,45,10
@@ -1541,21 +1187,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1873,California,60,Ventura,Ventura,1110,,16,1
 1873,California,60,Yolo,Yolo,1130,,74,6
 1873,California,60,Yuba,Yuba,1150,,106,8
-1873,Colorado Territory,85,Arapahoe,Arapahoe,15,,,37
-1873,Colorado Territory,85,Bent,Bent,35,,5,1
-1873,Colorado Territory,85,Boulder,Boulder,55,,41,2
-1873,Colorado Territory,85,Clear Creek,Clear Creek,75,,28,1
-1873,Colorado Territory,85,Costilla,Costilla,115,,26,1
-1873,Colorado Territory,85,Douglas,Douglas,135,,13,
-1873,Colorado Territory,85,El Paso,El Paso,155,,10,2
-1873,Colorado Territory,85,Fremont,Fremont,175,,32,2
-1873,Colorado Territory,85,Gilpin,Gilpin,195,,51,5
-1873,Colorado Territory,85,Jefferson,Jefferson,255,,34,5
-1873,Colorado Territory,85,Lake,Lake,275,,1,
-1873,Colorado Territory,85,Larimer,Larimer,295,,4,
-1873,Colorado Territory,85,Pueblo,Pueblo,355,,49,3
-1873,Colorado Territory,85,Saguache,Saguache,375,,9,
-1873,Colorado Territory,85,Weld,Weld,415,,43,
 1873,Nevada,320,Douglas,Douglas,50,,9,4
 1873,Nevada,320,Elko,Elko,70,,26,10
 1873,Nevada,320,Esmeralda,Esmeralda,90,,9,2
@@ -1569,9 +1200,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1873,Nevada,320,Storey,Storey,290,,94,30
 1873,Nevada,320,Washoe,Washoe,310,,33,1
 1873,Nevada,320,White Pine,White Pine,330,3,,
-1873,New Mexico Territory,355,Bernalillo,Bernalillo,35,,,1
-1873,New Mexico Territory,355,Socorro,Socorro,475,,,2
-1873,New Mexico Territory,355,Taos,Taos,495,,,1
 1873,Oregon,410,Baker,Baker,10,,31,3
 1873,Oregon,410,Benton,Benton,30,,,6
 1873,Oregon,410,Clackamas,Clackamas,50,,44,2
@@ -1714,52 +1342,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1873,Texas,480,Wilson,Wilson,4930,3,45,
 1873,Texas,480,Wise,Wise,4970,3,,1
 1873,Texas,480,Wood,Wood,4990,3,,
-1873,Utah Territory,495,Box Elder,Box Elder,35,,,8
-1873,Utah Territory,495,Cache,Cache,55,,,6
-1873,Utah Territory,495,Juab,Juab,315,,,1
-1873,Utah Territory,495,Kane,Kane,335,,,1
-1873,Utah Territory,495,Morgan,Morgan,395,,,1
-1873,Utah Territory,495,Salt Lake,Salt Lake,495,,,77
-1873,Utah Territory,495,Sanpete,Sanpete,535,,,6
-1873,Utah Territory,495,Summit,Summit,595,,,1
-1873,Utah Territory,495,Tooele,Tooele,615,,,2
-1873,Utah Territory,495,Utah,Utah,675,,,9
-1873,Utah Territory,495,Wasatch,Wasatch,715,,,1
-1873,Utah Territory,495,Washington,Washington,735,,,2
-1873,Utah Territory,495,Weber,Weber,755,"48,49",,
-1873,Washington Territory,535,Asotin,Asotin,5,50,,
-1873,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1873,Washington Territory,535,Clallam,Clallam,35,50,,
-1873,Washington Territory,535,Clark,Clark,55,50,,7
-1873,Washington Territory,535,Columbia,Columbia,75,50,,
-1873,Washington Territory,535,Cowlitz,Cowlitz,95,50,,
-1873,Washington Territory,535,Garfield,Garfield,105,50,,
-1873,Washington Territory,535,Island,Island,115,50,,
-1873,Washington Territory,535,Jefferson,Jefferson,135,50,,2
-1873,Washington Territory,535,King,King,155,50,,6
-1873,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1873,Washington Territory,535,Klikatat,Klikatat,195,50,,
-1873,Washington Territory,535,Lewis,Lewis,215,50,,
-1873,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1873,Washington Territory,535,Mason,Mason,235,50,,
-1873,Washington Territory,535,Pacific,Pacific,255,50,,
-1873,Washington Territory,535,Pierce,Pierce,275,50,13,3
-1873,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1873,Washington Territory,535,San Juan,San Juan,315,50,,
-1873,Washington Territory,535,Skagit,Skagit,335,50,,
-1873,Washington Territory,535,Skamania,Skamania,355,50,,
-1873,Washington Territory,535,Snohomish,Snohomish,395,50,,
-1873,Washington Territory,535,Spokane,Spokane,415,50,,
-1873,Washington Territory,535,Stevens,Stevens,435,50,,
-1873,Washington Territory,535,Thurston,Thurston,455,50,,2
-1873,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1873,Washington Territory,535,Walla Walla,Walla Walla,495,50,76,9
-1873,Washington Territory,535,Whatcom,Whatcom,515,50,,
-1873,Washington Territory,535,Whitman,Whitman,535,50,4,
-1873,Washington Territory,535,Yakima,Yakima,555,50,,
-1874,Arizona Territory,45,Maricopa,Maricopa,135,,,1
-1874,Arizona Territory,45,Mohave,Mohave,155,,1,
-1874,Arizona Territory,45,Yuma,Yuma,275,,,1
 1874,California,60,Alameda,Alameda,10,,288,14
 1874,California,60,Alpine,Alpine,30,,5,
 1874,California,60,Amador,Amador,50,,69,2
@@ -1810,23 +1392,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1874,California,60,Ventura,Ventura,1110,,25,3
 1874,California,60,Yolo,Yolo,1130,,53,9
 1874,California,60,Yuba,Yuba,1150,,77,10
-1874,Colorado Territory,85,Arapahoe,Arapahoe,15,,238,33
-1874,Colorado Territory,85,Bent,Bent,35,,21,
-1874,Colorado Territory,85,Boulder,Boulder,55,,55,2
-1874,Colorado Territory,85,Clear Creek,Clear Creek,75,,55,4
-1874,Colorado Territory,85,Costilla,Costilla,115,,14,1
-1874,Colorado Territory,85,Douglas,Douglas,135,,26,
-1874,Colorado Territory,85,El Paso,El Paso,155,,48,4
-1874,Colorado Territory,85,Fremont,Fremont,175,,65,2
-1874,Colorado Territory,85,Gilpin,Gilpin,195,,53,3
-1874,Colorado Territory,85,Jefferson,Jefferson,255,,15,6
-1874,Colorado Territory,85,Lake,Lake,275,,2,
-1874,Colorado Territory,85,Larimer,Larimer,295,,16,
-1874,Colorado Territory,85,Pueblo,Pueblo,355,,48,4
-1874,Colorado Territory,85,Rio Blanco,Rio Blanco,365,,,3
-1874,Colorado Territory,85,Saguache,Saguache,375,,12,
-1874,Colorado Territory,85,San Juan,San Juan,385,,,1
-1874,Colorado Territory,85,Weld,Weld,415,,29,
 1874,Nevada,320,Churchill,Churchill,10,,1,
 1874,Nevada,320,Douglas,Douglas,50,,,1
 1874,Nevada,320,Elko,Elko,70,,33,8
@@ -1841,9 +1406,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1874,Nevada,320,Storey,Storey,290,,91,29
 1874,Nevada,320,Washoe,Washoe,310,,40,3
 1874,Nevada,320,White Pine,White Pine,330,3,,
-1874,New Mexico Territory,355,Bernalillo,Bernalillo,35,,,1
-1874,New Mexico Territory,355,San Miguel,San Miguel,395,,,1
-1874,New Mexico Territory,355,Valencia,Valencia,555,,,2
 1874,Oregon,410,Baker,Baker,10,,41,8
 1874,Oregon,410,Benton,Benton,30,,,3
 1874,Oregon,410,Clackamas,Clackamas,50,,70,5
@@ -1992,52 +1554,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1874,Texas,480,Wilson,Wilson,4930,3,62,
 1874,Texas,480,Wise,Wise,4970,3,,
 1874,Texas,480,Wood,Wood,4990,3,,
-1874,Utah Territory,495,Beaver,Beaver,15,,,2
-1874,Utah Territory,495,Box Elder,Box Elder,35,,,15
-1874,Utah Territory,495,Cache,Cache,55,,,2
-1874,Utah Territory,495,Iron,Iron,295,,,2
-1874,Utah Territory,495,Juab,Juab,315,,,3
-1874,Utah Territory,495,Millard,Millard,375,,,3
-1874,Utah Territory,495,Morgan,Morgan,395,,,1
-1874,Utah Territory,495,Salt Lake,Salt Lake,495,,,74
-1874,Utah Territory,495,Sanpete,Sanpete,535,,,2
-1874,Utah Territory,495,Sevier,Sevier,555,,,1
-1874,Utah Territory,495,Summit,Summit,595,,,1
-1874,Utah Territory,495,Tooele,Tooele,615,,,4
-1874,Utah Territory,495,Utah,Utah,675,,,10
-1874,Utah Territory,495,Washington,Washington,735,,,2
-1874,Utah Territory,495,Weber,Weber,755,"48,49",,
-1874,Washington Territory,535,Asotin,Asotin,5,50,,
-1874,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1874,Washington Territory,535,Clallam,Clallam,35,50,,
-1874,Washington Territory,535,Clark,Clark,55,50,,8
-1874,Washington Territory,535,Columbia,Columbia,75,50,,
-1874,Washington Territory,535,Cowlitz,Cowlitz,95,50,,
-1874,Washington Territory,535,Garfield,Garfield,105,50,,
-1874,Washington Territory,535,Island,Island,115,50,,
-1874,Washington Territory,535,Jefferson,Jefferson,135,50,,2
-1874,Washington Territory,535,King,King,155,50,,5
-1874,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1874,Washington Territory,535,Klikatat,Klikatat,195,50,,
-1874,Washington Territory,535,Lewis,Lewis,215,50,,
-1874,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1874,Washington Territory,535,Mason,Mason,235,50,,
-1874,Washington Territory,535,Pacific,Pacific,255,50,,
-1874,Washington Territory,535,Pierce,Pierce,275,50,20,3
-1874,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1874,Washington Territory,535,San Juan,San Juan,315,50,,
-1874,Washington Territory,535,Skagit,Skagit,335,50,,
-1874,Washington Territory,535,Skamania,Skamania,355,50,,
-1874,Washington Territory,535,Snohomish,Snohomish,395,50,,
-1874,Washington Territory,535,Spokane,Spokane,415,50,,
-1874,Washington Territory,535,Stevens,Stevens,435,50,,
-1874,Washington Territory,535,Thurston,Thurston,455,50,,3
-1874,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1874,Washington Territory,535,Walla Walla,Walla Walla,495,50,84,14
-1874,Washington Territory,535,Whatcom,Whatcom,515,50,,
-1874,Washington Territory,535,Whitman,Whitman,535,50,7,
-1874,Washington Territory,535,Yakima,Yakima,555,50,,
-1875,Arizona Territory,45,Pima,Pima,195,,,1
 1875,California,60,Alameda,Alameda,10,,340,12
 1875,California,60,Amador,Amador,50,,64,5
 1875,California,60,Butte,Butte,70,,89,11
@@ -2087,22 +1603,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1875,California,60,Ventura,Ventura,1110,,39,2
 1875,California,60,Yolo,Yolo,1130,,66,3
 1875,California,60,Yuba,Yuba,1150,,90,13
-1875,Colorado Territory,85,Arapahoe,Arapahoe,15,,253,24
-1875,Colorado Territory,85,Bent,Bent,35,,27,2
-1875,Colorado Territory,85,Boulder,Boulder,55,,64,6
-1875,Colorado Territory,85,Clear Creek,Clear Creek,75,,63,10
-1875,Colorado Territory,85,Costilla,Costilla,115,,17,2
-1875,Colorado Territory,85,Douglas,Douglas,135,,10,
-1875,Colorado Territory,85,El Paso,El Paso,155,,62,9
-1875,Colorado Territory,85,Fremont,Fremont,175,,55,1
-1875,Colorado Territory,85,Gilpin,Gilpin,195,,51,3
-1875,Colorado Territory,85,Jefferson,Jefferson,255,,,11
-1875,Colorado Territory,85,Lake,Lake,275,,3,
-1875,Colorado Territory,85,Larimer,Larimer,295,,18,1
-1875,Colorado Territory,85,Pueblo,Pueblo,355,,39,7
-1875,Colorado Territory,85,Rio Blanco,Rio Blanco,365,,,7
-1875,Colorado Territory,85,Saguache,Saguache,375,,13,
-1875,Colorado Territory,85,Weld,Weld,415,,24,
 1875,Nevada,320,Douglas,Douglas,50,,11,
 1875,Nevada,320,Elko,Elko,70,,31,3
 1875,Nevada,320,Esmeralda,Esmeralda,90,,5,
@@ -2116,9 +1616,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1875,Nevada,320,Storey,Storey,290,,132,29
 1875,Nevada,320,Washoe,Washoe,310,,44,9
 1875,Nevada,320,White Pine,White Pine,330,3,,
-1875,New Mexico Territory,355,Dona Ana,Dona Ana,115,,,1
-1875,New Mexico Territory,355,Grant,Grant,155,,,1
-1875,New Mexico Territory,355,Rio Arriba,Rio Arriba,315,,,1
 1875,Oregon,410,Baker,Baker,10,,52,15
 1875,Oregon,410,Benton,Benton,30,,,3
 1875,Oregon,410,Clackamas,Clackamas,50,,60,1
@@ -2274,54 +1771,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1875,Texas,480,Wise,Wise,4970,3,,
 1875,Texas,480,Wood,Wood,4990,3,,
 1875,Texas,480,Young,Young,5030,,4,
-1875,Utah Territory,495,Beaver,Beaver,15,,,108
-1875,Utah Territory,495,Box Elder,Box Elder,35,,,64
-1875,Utah Territory,495,Cache,Cache,55,,,5
-1875,Utah Territory,495,Davis,Davis,115,,,2
-1875,Utah Territory,495,Millard,Millard,375,,,3
-1875,Utah Territory,495,Morgan,Morgan,395,,,1
-1875,Utah Territory,495,Piute,Piute,415,,,1
-1875,Utah Territory,495,Salt Lake,Salt Lake,495,,,65
-1875,Utah Territory,495,Sanpete,Sanpete,535,,,5
-1875,Utah Territory,495,Summit,Summit,595,,,2
-1875,Utah Territory,495,Utah,Utah,675,,,14
-1875,Utah Territory,495,Washington,Washington,735,,,3
-1875,Utah Territory,495,Weber,Weber,755,"48,49",,
-1875,Washington Territory,535,Asotin,Asotin,5,50,,
-1875,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1875,Washington Territory,535,Clallam,Clallam,35,50,,
-1875,Washington Territory,535,Clark,Clark,55,50,,5
-1875,Washington Territory,535,Columbia,Columbia,75,50,,
-1875,Washington Territory,535,Cowlitz,Cowlitz,95,50,,1
-1875,Washington Territory,535,Garfield,Garfield,105,50,,
-1875,Washington Territory,535,Island,Island,115,50,,
-1875,Washington Territory,535,Jefferson,Jefferson,135,50,,3
-1875,Washington Territory,535,King,King,155,50,,6
-1875,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1875,Washington Territory,535,Klikatat,Klikatat,195,50,,
-1875,Washington Territory,535,Lewis,Lewis,215,50,,
-1875,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1875,Washington Territory,535,Mason,Mason,235,50,,
-1875,Washington Territory,535,Pacific,Pacific,255,50,,
-1875,Washington Territory,535,Pierce,Pierce,275,50,19,2
-1875,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1875,Washington Territory,535,San Juan,San Juan,315,50,,
-1875,Washington Territory,535,Skagit,Skagit,335,50,,
-1875,Washington Territory,535,Skamania,Skamania,355,50,,
-1875,Washington Territory,535,Snohomish,Snohomish,395,50,,
-1875,Washington Territory,535,Spokane,Spokane,415,50,,
-1875,Washington Territory,535,Stevens,Stevens,435,50,,
-1875,Washington Territory,535,Thurston,Thurston,455,50,,1
-1875,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1875,Washington Territory,535,Walla Walla,Walla Walla,495,50,84,3
-1875,Washington Territory,535,Whatcom,Whatcom,515,50,,
-1875,Washington Territory,535,Whitman,Whitman,535,50,14,
-1875,Washington Territory,535,Yakima,Yakima,555,50,,
-1876,Arizona Territory,45,Maricopa,Maricopa,135,,,1
-1876,Arizona Territory,45,Pima,Pima,195,,,2
-1876,Arizona Territory,45,Pinal,Pinal,215,,,1
-1876,Arizona Territory,45,Yavapai,Yavapai,255,,,2
-1876,Arizona Territory,45,Yuma,Yuma,275,,,3
 1876,California,60,Alameda,Alameda,10,,445,19
 1876,California,60,Alpine,Alpine,30,,4,
 1876,California,60,Amador,Amador,50,,69,3
@@ -2405,9 +1854,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1876,Nevada,320,Storey,Storey,290,,145,37
 1876,Nevada,320,Washoe,Washoe,310,,41,8
 1876,Nevada,320,White Pine,White Pine,330,3,,
-1876,New Mexico Territory,355,Grant,Grant,155,,,3
-1876,New Mexico Territory,355,Rio Arriba,Rio Arriba,315,,,1
-1876,New Mexico Territory,355,Santa Fe,Santa Fe,435,,,1
 1876,Oregon,410,Baker,Baker,10,,54,9
 1876,Oregon,410,Benton,Benton,30,,,6
 1876,Oregon,410,Clackamas,Clackamas,50,,76,3
@@ -2564,54 +2010,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1876,Texas,480,Wise,Wise,4970,3,,1
 1876,Texas,480,Wood,Wood,4990,3,,
 1876,Texas,480,Young,Young,5030,,16,
-1876,Utah Territory,495,Beaver,Beaver,15,,,358
-1876,Utah Territory,495,Box Elder,Box Elder,35,,,199
-1876,Utah Territory,495,Cache,Cache,55,,,5
-1876,Utah Territory,495,Iron,Iron,295,,,2
-1876,Utah Territory,495,Juab,Juab,315,,,6
-1876,Utah Territory,495,Kane,Kane,335,,,1
-1876,Utah Territory,495,Morgan,Morgan,395,,,10
-1876,Utah Territory,495,Salt Lake,Salt Lake,495,,,65
-1876,Utah Territory,495,Sanpete,Sanpete,535,,,4
-1876,Utah Territory,495,Sevier,Sevier,555,,,3
-1876,Utah Territory,495,Summit,Summit,595,,,1
-1876,Utah Territory,495,Tooele,Tooele,615,,,1
-1876,Utah Territory,495,Utah,Utah,675,,,11
-1876,Utah Territory,495,Washington,Washington,735,,,4
-1876,Utah Territory,495,Weber,Weber,755,"48,49",,
-1876,Washington Territory,535,Asotin,Asotin,5,50,,
-1876,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1876,Washington Territory,535,Clallam,Clallam,35,50,,
-1876,Washington Territory,535,Clark,Clark,55,50,,2
-1876,Washington Territory,535,Columbia,Columbia,75,50,38,
-1876,Washington Territory,535,Cowlitz,Cowlitz,95,50,,2
-1876,Washington Territory,535,Garfield,Garfield,105,50,,
-1876,Washington Territory,535,Island,Island,115,50,,
-1876,Washington Territory,535,Jefferson,Jefferson,135,50,,
-1876,Washington Territory,535,King,King,155,50,,5
-1876,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1876,Washington Territory,535,Klikatat,Klikatat,195,50,,
-1876,Washington Territory,535,Lewis,Lewis,215,50,,
-1876,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1876,Washington Territory,535,Mason,Mason,235,50,,
-1876,Washington Territory,535,Pacific,Pacific,255,50,,
-1876,Washington Territory,535,Pierce,Pierce,275,50,18,1
-1876,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1876,Washington Territory,535,San Juan,San Juan,315,50,,
-1876,Washington Territory,535,Skagit,Skagit,335,50,,
-1876,Washington Territory,535,Skamania,Skamania,355,50,,
-1876,Washington Territory,535,Snohomish,Snohomish,395,50,,2
-1876,Washington Territory,535,Spokane,Spokane,415,50,,
-1876,Washington Territory,535,Stevens,Stevens,435,50,,
-1876,Washington Territory,535,Thurston,Thurston,455,50,,10
-1876,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1876,Washington Territory,535,Walla Walla,Walla Walla,495,50,59,4
-1876,Washington Territory,535,Whatcom,Whatcom,515,50,,
-1876,Washington Territory,535,Whitman,Whitman,535,50,18,
-1876,Washington Territory,535,Yakima,Yakima,555,50,,
-1877,Arizona Territory,45,Mohave,Mohave,155,,1,
-1877,Arizona Territory,45,Pinal,Pinal,215,,,5
-1877,Arizona Territory,45,Yuma,Yuma,275,,,3
 1877,California,60,Alameda,Alameda,10,,422,15
 1877,California,60,Alpine,Alpine,30,,3,5
 1877,California,60,Amador,Amador,50,,73,4
@@ -2696,10 +2094,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1877,Nevada,320,Storey,Storey,290,,145,35
 1877,Nevada,320,Washoe,Washoe,310,,53,6
 1877,Nevada,320,White Pine,White Pine,330,3,,
-1877,New Mexico Territory,355,Bernalillo,Bernalillo,35,,,2
-1877,New Mexico Territory,355,Grant,Grant,155,,,1
-1877,New Mexico Territory,355,Santa Fe,Santa Fe,435,,,1
-1877,New Mexico Territory,355,Taos,Taos,495,,,1
 1877,Oregon,410,Baker,Baker,10,,57,2
 1877,Oregon,410,Benton,Benton,30,,,4
 1877,Oregon,410,Clackamas,Clackamas,50,,70,4
@@ -2859,58 +2253,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1877,Texas,480,Wise,Wise,4970,3,,3
 1877,Texas,480,Wood,Wood,4990,3,,
 1877,Texas,480,Young,Young,5030,,30,1
-1877,Utah Territory,495,Beaver,Beaver,15,,,173
-1877,Utah Territory,495,Box Elder,Box Elder,35,,,28
-1877,Utah Territory,495,Cache,Cache,55,,,9
-1877,Utah Territory,495,Davis,Davis,115,,,154
-1877,Utah Territory,495,Iron,Iron,295,,,3
-1877,Utah Territory,495,Juab,Juab,315,,,8
-1877,Utah Territory,495,Kane,Kane,335,,,2
-1877,Utah Territory,495,Millard,Millard,375,,,1
-1877,Utah Territory,495,Morgan,Morgan,395,,,2
-1877,Utah Territory,495,Rich,Rich,435,,,1
-1877,Utah Territory,495,Salt Lake,Salt Lake,495,,,448
-1877,Utah Territory,495,Sanpete,Sanpete,535,,,13
-1877,Utah Territory,495,Sevier,Sevier,555,,,28
-1877,Utah Territory,495,Tooele,Tooele,615,,,3
-1877,Utah Territory,495,Utah,Utah,675,,,15
-1877,Utah Territory,495,Wasatch,Wasatch,715,,,3
-1877,Utah Territory,495,Washington,Washington,735,,,4
-1877,Utah Territory,495,Weber,Weber,755,"48,49",,
-1877,Washington Territory,535,Asotin,Asotin,5,50,,
-1877,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1877,Washington Territory,535,Clallam,Clallam,35,50,,
-1877,Washington Territory,535,Clark,Clark,55,50,,3
-1877,Washington Territory,535,Columbia,Columbia,75,50,45,
-1877,Washington Territory,535,Cowlitz,Cowlitz,95,50,,3
-1877,Washington Territory,535,Garfield,Garfield,105,50,,
-1877,Washington Territory,535,Island,Island,115,50,,
-1877,Washington Territory,535,Jefferson,Jefferson,135,50,,1
-1877,Washington Territory,535,King,King,155,50,,1
-1877,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1877,Washington Territory,535,Klikatat,Klikatat,195,50,,
-1877,Washington Territory,535,Lewis,Lewis,215,50,,
-1877,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1877,Washington Territory,535,Mason,Mason,235,50,,
-1877,Washington Territory,535,Pacific,Pacific,255,50,,
-1877,Washington Territory,535,Pierce,Pierce,275,50,26,1
-1877,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1877,Washington Territory,535,San Juan,San Juan,315,50,,
-1877,Washington Territory,535,Skagit,Skagit,335,50,,
-1877,Washington Territory,535,Skamania,Skamania,355,50,,
-1877,Washington Territory,535,Snohomish,Snohomish,395,50,,1
-1877,Washington Territory,535,Spokane,Spokane,415,50,,
-1877,Washington Territory,535,Stevens,Stevens,435,50,,
-1877,Washington Territory,535,Thurston,Thurston,455,50,,3
-1877,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1877,Washington Territory,535,Walla Walla,Walla Walla,495,50,55,15
-1877,Washington Territory,535,Whatcom,Whatcom,515,50,,
-1877,Washington Territory,535,Whitman,Whitman,535,50,21,
-1877,Washington Territory,535,Yakima,Yakima,555,50,4,
-1878,Arizona Territory,45,Maricopa,Maricopa,135,,,1
-1878,Arizona Territory,45,Mohave,Mohave,155,,3,
-1878,Arizona Territory,45,Pinal,Pinal,215,,,2
-1878,Arizona Territory,45,Yavapai,Yavapai,255,,,2
 1878,California,60,Alameda,Alameda,10,,552,27
 1878,California,60,Alpine,Alpine,30,,2,
 1878,California,60,Amador,Amador,50,,70,9
@@ -2995,9 +2337,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1878,Nevada,320,Storey,Storey,290,,127,36
 1878,Nevada,320,Washoe,Washoe,310,,46,5
 1878,Nevada,320,White Pine,White Pine,330,3,,
-1878,New Mexico Territory,355,Grant,Grant,155,,,1
-1878,New Mexico Territory,355,Santa Fe,Santa Fe,435,,,1
-1878,New Mexico Territory,355,Valencia,Valencia,555,,,1
 1878,Oregon,410,Baker,Baker,10,,87,4
 1878,Oregon,410,Benton,Benton,30,,,4
 1878,Oregon,410,Clackamas,Clackamas,50,,86,3
@@ -3158,58 +2497,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1878,Texas,480,Wise,Wise,4970,3,,4
 1878,Texas,480,Wood,Wood,4990,3,,
 1878,Texas,480,Young,Young,5030,,34,
-1878,Utah Territory,495,Beaver,Beaver,15,,,6
-1878,Utah Territory,495,Box Elder,Box Elder,35,,,4
-1878,Utah Territory,495,Cache,Cache,55,,,6
-1878,Utah Territory,495,Iron,Iron,295,,,1
-1878,Utah Territory,495,Juab,Juab,315,,,2
-1878,Utah Territory,495,Millard,Millard,375,,,1
-1878,Utah Territory,495,Morgan,Morgan,395,,,4
-1878,Utah Territory,495,Rich,Rich,435,,,1
-1878,Utah Territory,495,Salt Lake,Salt Lake,495,,,214
-1878,Utah Territory,495,Sanpete,Sanpete,535,,,4
-1878,Utah Territory,495,Sevier,Sevier,555,,,5
-1878,Utah Territory,495,Summit,Summit,595,,,3
-1878,Utah Territory,495,Tooele,Tooele,615,,,3
-1878,Utah Territory,495,Utah,Utah,675,,,11
-1878,Utah Territory,495,Wasatch,Wasatch,715,,,1
-1878,Utah Territory,495,Weber,Weber,755,"48,49",,
-1878,Washington Territory,535,Asotin,Asotin,5,50,,
-1878,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1878,Washington Territory,535,Clallam,Clallam,35,50,,
-1878,Washington Territory,535,Clark,Clark,55,50,,6
-1878,Washington Territory,535,Columbia,Columbia,75,50,48,2
-1878,Washington Territory,535,Cowlitz,Cowlitz,95,50,,
-1878,Washington Territory,535,Garfield,Garfield,105,50,,
-1878,Washington Territory,535,Island,Island,115,50,,
-1878,Washington Territory,535,Jefferson,Jefferson,135,50,,3
-1878,Washington Territory,535,King,King,155,50,,7
-1878,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1878,Washington Territory,535,Klikatat,Klikatat,195,50,,
-1878,Washington Territory,535,Lewis,Lewis,215,50,,
-1878,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1878,Washington Territory,535,Mason,Mason,235,50,,
-1878,Washington Territory,535,Pacific,Pacific,255,50,,1
-1878,Washington Territory,535,Pierce,Pierce,275,50,25,6
-1878,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1878,Washington Territory,535,San Juan,San Juan,315,50,,
-1878,Washington Territory,535,Skagit,Skagit,335,50,,
-1878,Washington Territory,535,Skamania,Skamania,355,50,,
-1878,Washington Territory,535,Snohomish,Snohomish,395,50,,
-1878,Washington Territory,535,Spokane,Spokane,415,50,,
-1878,Washington Territory,535,Stevens,Stevens,435,50,,
-1878,Washington Territory,535,Thurston,Thurston,455,50,,3
-1878,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1878,Washington Territory,535,Walla Walla,Walla Walla,495,50,91,7
-1878,Washington Territory,535,Whatcom,Whatcom,515,50,,2
-1878,Washington Territory,535,Whitman,Whitman,535,50,26,
-1878,Washington Territory,535,Yakima,Yakima,555,50,20,
-1879,Arizona Territory,45,Maricopa,Maricopa,135,,,8
-1879,Arizona Territory,45,Mohave,Mohave,155,,1,3
-1879,Arizona Territory,45,Pima,Pima,195,,,4
-1879,Arizona Territory,45,Pinal,Pinal,215,,,4
-1879,Arizona Territory,45,Yavapai,Yavapai,255,,,6
-1879,Arizona Territory,45,Yuma,Yuma,275,,,3
 1879,California,60,Alameda,Alameda,10,,576,35
 1879,California,60,Alpine,Alpine,30,,2,
 1879,California,60,Amador,Amador,50,,68,10
@@ -3298,10 +2585,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1879,Nevada,320,Storey,Storey,290,,140,29
 1879,Nevada,320,Washoe,Washoe,310,,56,6
 1879,Nevada,320,White Pine,White Pine,330,3,,
-1879,New Mexico Territory,355,Colfax,Colfax,75,,,2
-1879,New Mexico Territory,355,Grant,Grant,155,,,3
-1879,New Mexico Territory,355,San Miguel,San Miguel,395,,,2
-1879,New Mexico Territory,355,Santa Fe,Santa Fe,435,,,1
 1879,Oregon,410,Baker,Baker,10,,59,13
 1879,Oregon,410,Benton,Benton,30,,,5
 1879,Oregon,410,Clackamas,Clackamas,50,,72,6
@@ -3468,55 +2751,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1879,Texas,480,Wise,Wise,4970,3,,2
 1879,Texas,480,Wood,Wood,4990,,126,2
 1879,Texas,480,Young,Young,5030,,74,2
-1879,Utah Territory,495,Beaver,Beaver,15,,,6
-1879,Utah Territory,495,Box Elder,Box Elder,35,,,11
-1879,Utah Territory,495,Cache,Cache,55,,,5
-1879,Utah Territory,495,Iron,Iron,295,,,1
-1879,Utah Territory,495,Juab,Juab,315,,,3
-1879,Utah Territory,495,Rich,Rich,435,,,1
-1879,Utah Territory,495,Salt Lake,Salt Lake,495,,,39
-1879,Utah Territory,495,Sanpete,Sanpete,535,,,3
-1879,Utah Territory,495,Sevier,Sevier,555,,,6
-1879,Utah Territory,495,Summit,Summit,595,,,6
-1879,Utah Territory,495,Tooele,Tooele,615,,,3
-1879,Utah Territory,495,Utah,Utah,675,,,9
-1879,Utah Territory,495,Washington,Washington,735,,,2
-1879,Utah Territory,495,Weber,Weber,755,"48,49",,
-1879,Washington Territory,535,Asotin,Asotin,5,50,,
-1879,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1879,Washington Territory,535,Clallam,Clallam,35,50,,
-1879,Washington Territory,535,Clark,Clark,55,50,,7
-1879,Washington Territory,535,Columbia,Columbia,75,50,52,2
-1879,Washington Territory,535,Cowlitz,Cowlitz,95,50,,2
-1879,Washington Territory,535,Garfield,Garfield,105,50,,
-1879,Washington Territory,535,Island,Island,115,50,,
-1879,Washington Territory,535,Jefferson,Jefferson,135,50,,3
-1879,Washington Territory,535,King,King,155,50,,4
-1879,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1879,Washington Territory,535,Klikatat,Klikatat,195,50,,
-1879,Washington Territory,535,Lewis,Lewis,215,50,,
-1879,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1879,Washington Territory,535,Mason,Mason,235,50,,
-1879,Washington Territory,535,Pacific,Pacific,255,50,,
-1879,Washington Territory,535,Pierce,Pierce,275,50,26,
-1879,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1879,Washington Territory,535,San Juan,San Juan,315,50,,
-1879,Washington Territory,535,Skagit,Skagit,335,50,,
-1879,Washington Territory,535,Skamania,Skamania,355,50,,
-1879,Washington Territory,535,Snohomish,Snohomish,395,50,,
-1879,Washington Territory,535,Spokane,Spokane,415,50,,
-1879,Washington Territory,535,Stevens,Stevens,435,50,,
-1879,Washington Territory,535,Thurston,Thurston,455,50,,6
-1879,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1879,Washington Territory,535,Walla Walla,Walla Walla,495,50,95,10
-1879,Washington Territory,535,Whatcom,Whatcom,515,50,,4
-1879,Washington Territory,535,Whitman,Whitman,535,50,42,2
-1879,Washington Territory,535,Yakima,Yakima,555,50,26,
-1880,Arizona Territory,45,Maricopa,Maricopa,135,,,6
-1880,Arizona Territory,45,Mohave,Mohave,155,,1,1
-1880,Arizona Territory,45,Pima,Pima,195,,,10
-1880,Arizona Territory,45,Pinal,Pinal,215,,,2
-1880,Arizona Territory,45,Yavapai,Yavapai,255,,,4
 1880,California,60,Alameda,Alameda,10,,508,55
 1880,California,60,Amador,Amador,50,,69,7
 1880,California,60,Butte,Butte,70,,122,9
@@ -3603,9 +2837,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1880,Nevada,320,Storey,Storey,290,,108,32
 1880,Nevada,320,Washoe,Washoe,310,,45,5
 1880,Nevada,320,White Pine,White Pine,330,3,,
-1880,New Mexico Territory,355,Lincoln,Lincoln,195,,,3
-1880,New Mexico Territory,355,San Miguel,San Miguel,395,,,4
-1880,New Mexico Territory,355,Santa Fe,Santa Fe,435,,,1
 1880,Oregon,410,Baker,Baker,10,,72,11
 1880,Oregon,410,Benton,Benton,30,,,5
 1880,Oregon,410,Clackamas,Clackamas,50,,82,6
@@ -3773,63 +3004,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1880,Texas,480,Wise,Wise,4970,3,,
 1880,Texas,480,Wood,Wood,4990,,131,1
 1880,Texas,480,Young,Young,5030,,43,1
-1880,Utah Territory,495,Beaver,Beaver,15,,,4
-1880,Utah Territory,495,Box Elder,Box Elder,35,,,2
-1880,Utah Territory,495,Cache,Cache,55,,,6
-1880,Utah Territory,495,Davis,Davis,115,,,1
-1880,Utah Territory,495,Iron,Iron,295,,,1
-1880,Utah Territory,495,Juab,Juab,315,,,3
-1880,Utah Territory,495,Kane,Kane,335,,,1
-1880,Utah Territory,495,Millard,Millard,375,,,3
-1880,Utah Territory,495,Morgan,Morgan,395,,,2
-1880,Utah Territory,495,Salt Lake,Salt Lake,495,,,28
-1880,Utah Territory,495,Sanpete,Sanpete,535,,,8
-1880,Utah Territory,495,Sevier,Sevier,555,,,5
-1880,Utah Territory,495,Summit,Summit,595,,,4
-1880,Utah Territory,495,Tooele,Tooele,615,,,2
-1880,Utah Territory,495,Utah,Utah,675,,,8
-1880,Utah Territory,495,Wasatch,Wasatch,715,,,1
-1880,Utah Territory,495,Washington,Washington,735,,,5
-1880,Utah Territory,495,Weber,Weber,755,"48,49",,
-1880,Washington Territory,535,Asotin,Asotin,5,50,,
-1880,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1880,Washington Territory,535,Clallam,Clallam,35,50,,
-1880,Washington Territory,535,Clark,Clark,55,50,,5
-1880,Washington Territory,535,Columbia,Columbia,75,50,54,5
-1880,Washington Territory,535,Cowlitz,Cowlitz,95,50,,2
-1880,Washington Territory,535,Garfield,Garfield,105,50,,
-1880,Washington Territory,535,Island,Island,115,50,,
-1880,Washington Territory,535,Jefferson,Jefferson,135,50,,5
-1880,Washington Territory,535,King,King,155,50,,12
-1880,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1880,Washington Territory,535,Klikatat,Klikatat,195,50,,4
-1880,Washington Territory,535,Lewis,Lewis,215,50,,3
-1880,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1880,Washington Territory,535,Mason,Mason,235,50,,
-1880,Washington Territory,535,Pacific,Pacific,255,50,,1
-1880,Washington Territory,535,Pierce,Pierce,275,50,19,7
-1880,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1880,Washington Territory,535,San Juan,San Juan,315,50,,
-1880,Washington Territory,535,Skagit,Skagit,335,50,,
-1880,Washington Territory,535,Skamania,Skamania,355,50,,
-1880,Washington Territory,535,Snohomish,Snohomish,395,50,,2
-1880,Washington Territory,535,Spokane,Spokane,415,50,33,
-1880,Washington Territory,535,Stevens,Stevens,435,50,,
-1880,Washington Territory,535,Thurston,Thurston,455,50,,4
-1880,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1880,Washington Territory,535,Walla Walla,Walla Walla,495,50,115,11
-1880,Washington Territory,535,Whatcom,Whatcom,515,50,,1
-1880,Washington Territory,535,Whitman,Whitman,535,50,39,3
-1880,Washington Territory,535,Yakima,Yakima,555,50,17,
-1881,Arizona Territory,45,Apache,Apache,15,,,1
-1881,Arizona Territory,45,Cochise,Cochise,35,,,1
-1881,Arizona Territory,45,Gila,Gila,75,,,5
-1881,Arizona Territory,45,Graham,Graham,95,,19,
-1881,Arizona Territory,45,Maricopa,Maricopa,135,,,2
-1881,Arizona Territory,45,Mohave,Mohave,155,,3,1
-1881,Arizona Territory,45,Pima,Pima,195,,,4
-1881,Arizona Territory,45,Pinal,Pinal,215,,,1
-1881,Arizona Territory,45,Yavapai,Yavapai,255,,,2
 1881,California,60,Alameda,Alameda,10,,531,64
 1881,California,60,Alpine,Alpine,30,,1,2
 1881,California,60,Amador,Amador,50,,74,8
@@ -3921,11 +3095,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1881,Nevada,320,Storey,Storey,290,,75,19
 1881,Nevada,320,Washoe,Washoe,310,,40,9
 1881,Nevada,320,White Pine,White Pine,330,3,,
-1881,New Mexico Territory,355,Colfax,Colfax,75,,,2
-1881,New Mexico Territory,355,Grant,Grant,155,,,2
-1881,New Mexico Territory,355,Lincoln,Lincoln,195,,,4
-1881,New Mexico Territory,355,Rio Arriba,Rio Arriba,315,,,1
-1881,New Mexico Territory,355,San Miguel,San Miguel,395,,,3
 1881,Oregon,410,Baker,Baker,10,,63,6
 1881,Oregon,410,Benton,Benton,30,,,2
 1881,Oregon,410,Clackamas,Clackamas,50,,72,6
@@ -4096,61 +3265,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1881,Texas,480,Wise,Wise,4970,3,,
 1881,Texas,480,Wood,Wood,4990,,156,7
 1881,Texas,480,Young,Young,5030,,44,1
-1881,Utah Territory,495,Beaver,Beaver,15,,,5
-1881,Utah Territory,495,Box Elder,Box Elder,35,,,9
-1881,Utah Territory,495,Cache,Cache,55,,,9
-1881,Utah Territory,495,Davis,Davis,115,,,3
-1881,Utah Territory,495,Iron,Iron,295,,,3
-1881,Utah Territory,495,Juab,Juab,315,,,2
-1881,Utah Territory,495,Kane,Kane,335,,,1
-1881,Utah Territory,495,Millard,Millard,375,,,3
-1881,Utah Territory,495,Piute,Piute,415,,,1
-1881,Utah Territory,495,Salt Lake,Salt Lake,495,,,36
-1881,Utah Territory,495,Sanpete,Sanpete,535,,,10
-1881,Utah Territory,495,Summit,Summit,595,,,6
-1881,Utah Territory,495,Tooele,Tooele,615,,,2
-1881,Utah Territory,495,Utah,Utah,675,,,17
-1881,Utah Territory,495,Wasatch,Wasatch,715,,,1
-1881,Utah Territory,495,Washington,Washington,735,,,1
-1881,Utah Territory,495,Weber,Weber,755,"48,49",,
-1881,Washington Territory,535,Asotin,Asotin,5,50,,
-1881,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1881,Washington Territory,535,Clallam,Clallam,35,50,,
-1881,Washington Territory,535,Clark,Clark,55,50,,8
-1881,Washington Territory,535,Columbia,Columbia,75,50,70,3
-1881,Washington Territory,535,Cowlitz,Cowlitz,95,50,,
-1881,Washington Territory,535,Garfield,Garfield,105,50,,
-1881,Washington Territory,535,Island,Island,115,50,,
-1881,Washington Territory,535,Jefferson,Jefferson,135,50,,6
-1881,Washington Territory,535,King,King,155,50,,4
-1881,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1881,Washington Territory,535,Klikatat,Klikatat,195,50,,2
-1881,Washington Territory,535,Lewis,Lewis,215,50,,1
-1881,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1881,Washington Territory,535,Mason,Mason,235,50,,
-1881,Washington Territory,535,Pacific,Pacific,255,50,,
-1881,Washington Territory,535,Pierce,Pierce,275,50,33,7
-1881,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1881,Washington Territory,535,San Juan,San Juan,315,50,,
-1881,Washington Territory,535,Skagit,Skagit,335,50,,
-1881,Washington Territory,535,Skamania,Skamania,355,50,,
-1881,Washington Territory,535,Snohomish,Snohomish,395,50,,1
-1881,Washington Territory,535,Spokane,Spokane,415,50,54,8
-1881,Washington Territory,535,Stevens,Stevens,435,50,,
-1881,Washington Territory,535,Thurston,Thurston,455,50,,6
-1881,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1881,Washington Territory,535,Walla Walla,Walla Walla,495,50,136,17
-1881,Washington Territory,535,Whatcom,Whatcom,515,50,,
-1881,Washington Territory,535,Whitman,Whitman,535,50,36,4
-1881,Washington Territory,535,Yakima,Yakima,555,50,37,
-1882,Arizona Territory,45,Cochise,Cochise,35,,,2
-1882,Arizona Territory,45,Gila,Gila,75,,,6
-1882,Arizona Territory,45,Graham,Graham,95,,21,
-1882,Arizona Territory,45,Maricopa,Maricopa,135,,,2
-1882,Arizona Territory,45,Mohave,Mohave,155,,3,
-1882,Arizona Territory,45,Pima,Pima,195,,,6
-1882,Arizona Territory,45,Yavapai,Yavapai,255,,,4
-1882,Arizona Territory,45,Yuma,Yuma,275,,,2
 1882,California,60,Alameda,Alameda,10,,593,63
 1882,California,60,Alpine,Alpine,30,,4,3
 1882,California,60,Amador,Amador,50,,79,7
@@ -4242,14 +3356,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1882,Nevada,320,Storey,Storey,290,,64,6
 1882,Nevada,320,Washoe,Washoe,310,,47,7
 1882,Nevada,320,White Pine,White Pine,330,3,,
-1882,New Mexico Territory,355,Bernalillo,Bernalillo,35,,,4
-1882,New Mexico Territory,355,Colfax,Colfax,75,,,4
-1882,New Mexico Territory,355,Grant,Grant,155,,,1
-1882,New Mexico Territory,355,Lincoln,Lincoln,195,,,1
-1882,New Mexico Territory,355,Rio Arriba,Rio Arriba,315,,,2
-1882,New Mexico Territory,355,San Miguel,San Miguel,395,,,20
-1882,New Mexico Territory,355,Santa Fe,Santa Fe,435,,,5
-1882,New Mexico Territory,355,Valencia,Valencia,555,,,2
 1882,Oregon,410,Baker,Baker,10,,83,9
 1882,Oregon,410,Benton,Benton,30,,,8
 1882,Oregon,410,Clackamas,Clackamas,50,,70,10
@@ -4427,62 +3533,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1882,Texas,480,Wise,Wise,4970,,210,8
 1882,Texas,480,Wood,Wood,4990,,133,5
 1882,Texas,480,Young,Young,5030,,35,2
-1882,Utah Territory,495,Beaver,Beaver,15,,,11
-1882,Utah Territory,495,Box Elder,Box Elder,35,,,8
-1882,Utah Territory,495,Cache,Cache,55,,,2
-1882,Utah Territory,495,Davis,Davis,115,,,4
-1882,Utah Territory,495,Iron,Iron,295,,,3
-1882,Utah Territory,495,Juab,Juab,315,,,4
-1882,Utah Territory,495,Millard,Millard,375,,,4
-1882,Utah Territory,495,Piute,Piute,415,,,3
-1882,Utah Territory,495,Rich,Rich,435,,,3
-1882,Utah Territory,495,Salt Lake,Salt Lake,495,,,23
-1882,Utah Territory,495,Sanpete,Sanpete,535,,,6
-1882,Utah Territory,495,Summit,Summit,595,,,5
-1882,Utah Territory,495,Tooele,Tooele,615,,,3
-1882,Utah Territory,495,Utah,Utah,675,,,21
-1882,Utah Territory,495,Wasatch,Wasatch,715,,,2
-1882,Utah Territory,495,Washington,Washington,735,,,2
-1882,Utah Territory,495,Weber,Weber,755,"48,49",,
-1882,Washington Territory,535,Asotin,Asotin,5,50,,
-1882,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1882,Washington Territory,535,Clallam,Clallam,35,50,,
-1882,Washington Territory,535,Clark,Clark,55,50,,5
-1882,Washington Territory,535,Columbia,Columbia,75,50,69,2
-1882,Washington Territory,535,Cowlitz,Cowlitz,95,50,,1
-1882,Washington Territory,535,Garfield,Garfield,105,50,23,
-1882,Washington Territory,535,Island,Island,115,50,,
-1882,Washington Territory,535,Jefferson,Jefferson,135,50,,3
-1882,Washington Territory,535,King,King,155,50,,16
-1882,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1882,Washington Territory,535,Klikatat,Klikatat,195,50,,1
-1882,Washington Territory,535,Lewis,Lewis,215,50,,2
-1882,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1882,Washington Territory,535,Mason,Mason,235,50,,
-1882,Washington Territory,535,Pacific,Pacific,255,50,,2
-1882,Washington Territory,535,Pierce,Pierce,275,50,41,7
-1882,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1882,Washington Territory,535,San Juan,San Juan,315,50,,
-1882,Washington Territory,535,Skagit,Skagit,335,50,,
-1882,Washington Territory,535,Skamania,Skamania,355,50,,
-1882,Washington Territory,535,Snohomish,Snohomish,395,50,,
-1882,Washington Territory,535,Spokane,Spokane,415,50,68,10
-1882,Washington Territory,535,Stevens,Stevens,435,50,,
-1882,Washington Territory,535,Thurston,Thurston,455,50,,
-1882,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1882,Washington Territory,535,Walla Walla,Walla Walla,495,50,123,11
-1882,Washington Territory,535,Whatcom,Whatcom,515,50,,4
-1882,Washington Territory,535,Whitman,Whitman,535,50,47,9
-1882,Washington Territory,535,Yakima,Yakima,555,50,33,
-1883,Arizona Territory,45,Apache,Apache,15,,,2
-1883,Arizona Territory,45,Cochise,Cochise,35,,,2
-1883,Arizona Territory,45,Gila,Gila,75,,,2
-1883,Arizona Territory,45,Graham,Graham,95,,28,2
-1883,Arizona Territory,45,Maricopa,Maricopa,135,,,9
-1883,Arizona Territory,45,Mohave,Mohave,155,,4,
-1883,Arizona Territory,45,Pima,Pima,195,,,10
-1883,Arizona Territory,45,Pinal,Pinal,215,,,4
-1883,Arizona Territory,45,Yavapai,Yavapai,255,,,3
 1883,California,60,Alameda,Alameda,10,,478,95
 1883,California,60,Alpine,Alpine,30,,3,
 1883,California,60,Amador,Amador,50,,63,6
@@ -4579,15 +3629,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1883,Nevada,320,Storey,Storey,290,,59,10
 1883,Nevada,320,Washoe,Washoe,310,,37,4
 1883,Nevada,320,White Pine,White Pine,330,3,,
-1883,New Mexico Territory,355,Bernalillo,Bernalillo,35,,,10
-1883,New Mexico Territory,355,Colfax,Colfax,75,,,3
-1883,New Mexico Territory,355,Dona Ana,Dona Ana,115,,,1
-1883,New Mexico Territory,355,Grant,Grant,155,,,4
-1883,New Mexico Territory,355,Lincoln,Lincoln,195,,,2
-1883,New Mexico Territory,355,San Miguel,San Miguel,395,,,15
-1883,New Mexico Territory,355,Santa Fe,Santa Fe,435,,,7
-1883,New Mexico Territory,355,Socorro,Socorro,475,,,1
-1883,New Mexico Territory,355,Taos,Taos,495,,,1
 1883,Oregon,410,Baker,Baker,10,,74,15
 1883,Oregon,410,Benton,Benton,30,,,6
 1883,Oregon,410,Clackamas,Clackamas,50,,88,10
@@ -4769,61 +3810,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1883,Texas,480,Wise,Wise,4970,,218,7
 1883,Texas,480,Wood,Wood,4990,,137,9
 1883,Texas,480,Young,Young,5030,,36,1
-1883,Utah Territory,495,Beaver,Beaver,15,,,2
-1883,Utah Territory,495,Box Elder,Box Elder,35,,,7
-1883,Utah Territory,495,Cache,Cache,55,,,4
-1883,Utah Territory,495,Garfield,Garfield,175,,,2
-1883,Utah Territory,495,Juab,Juab,315,,,5
-1883,Utah Territory,495,Millard,Millard,375,,,4
-1883,Utah Territory,495,Piute,Piute,415,,,1
-1883,Utah Territory,495,Rich,Rich,435,,,2
-1883,Utah Territory,495,Salt Lake,Salt Lake,495,,,51
-1883,Utah Territory,495,Sanpete,Sanpete,535,,,12
-1883,Utah Territory,495,Sevier,Sevier,555,,,1
-1883,Utah Territory,495,Summit,Summit,595,,,4
-1883,Utah Territory,495,Tooele,Tooele,615,,,2
-1883,Utah Territory,495,Utah,Utah,675,,,17
-1883,Utah Territory,495,Wasatch,Wasatch,715,,,1
-1883,Utah Territory,495,Washington,Washington,735,,,3
-1883,Utah Territory,495,Weber,Weber,755,"48,49",,
-1883,Washington Territory,535,Asotin,Asotin,5,50,,
-1883,Washington Territory,535,Chihallis,Chihallis,15,50,,
-1883,Washington Territory,535,Clallam,Clallam,35,50,,
-1883,Washington Territory,535,Clark,Clark,55,50,,5
-1883,Washington Territory,535,Columbia,Columbia,75,50,62,5
-1883,Washington Territory,535,Cowlitz,Cowlitz,95,50,,1
-1883,Washington Territory,535,Garfield,Garfield,105,50,31,
-1883,Washington Territory,535,Island,Island,115,50,,
-1883,Washington Territory,535,Jefferson,Jefferson,135,50,,6
-1883,Washington Territory,535,King,King,155,50,,24
-1883,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1883,Washington Territory,535,Klikatat,Klikatat,195,50,,1
-1883,Washington Territory,535,Lewis,Lewis,215,50,,4
-1883,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1883,Washington Territory,535,Mason,Mason,235,50,,
-1883,Washington Territory,535,Pacific,Pacific,255,50,,
-1883,Washington Territory,535,Pierce,Pierce,275,50,76,6
-1883,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1883,Washington Territory,535,San Juan,San Juan,315,50,,
-1883,Washington Territory,535,Skagit,Skagit,335,50,,
-1883,Washington Territory,535,Skamania,Skamania,355,50,,
-1883,Washington Territory,535,Snohomish,Snohomish,395,50,,3
-1883,Washington Territory,535,Spokane,Spokane,415,50,96,15
-1883,Washington Territory,535,Stevens,Stevens,435,50,,
-1883,Washington Territory,535,Thurston,Thurston,455,50,,2
-1883,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1883,Washington Territory,535,Walla Walla,Walla Walla,495,50,128,14
-1883,Washington Territory,535,Whatcom,Whatcom,515,50,,7
-1883,Washington Territory,535,Whitman,Whitman,535,50,43,6
-1883,Washington Territory,535,Yakima,Yakima,555,50,39,
-1884,Arizona Territory,45,Apache,Apache,15,,,3
-1884,Arizona Territory,45,Cochise,Cochise,35,,,1
-1884,Arizona Territory,45,Gila,Gila,75,,,5
-1884,Arizona Territory,45,Graham,Graham,95,,17,1
-1884,Arizona Territory,45,Maricopa,Maricopa,135,,,8
-1884,Arizona Territory,45,Mohave,Mohave,155,,8,2
-1884,Arizona Territory,45,Pima,Pima,195,,,5
-1884,Arizona Territory,45,Yavapai,Yavapai,255,,,2
 1884,California,60,Alameda,Alameda,10,,710,68
 1884,California,60,Alpine,Alpine,30,,1,
 1884,California,60,Amador,Amador,50,,59,4
@@ -4919,15 +3905,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1884,Nevada,320,Storey,Storey,290,,45,9
 1884,Nevada,320,Washoe,Washoe,310,,49,7
 1884,Nevada,320,White Pine,White Pine,330,3,,
-1884,New Mexico Territory,355,Bernalillo,Bernalillo,35,,,8
-1884,New Mexico Territory,355,Colfax,Colfax,75,,,4
-1884,New Mexico Territory,355,Grant,Grant,155,,,1
-1884,New Mexico Territory,355,Mora,Mora,255,,,5
-1884,New Mexico Territory,355,San Miguel,San Miguel,395,,,9
-1884,New Mexico Territory,355,Santa Fe,Santa Fe,435,,,2
-1884,New Mexico Territory,355,Socorro,Socorro,475,,,3
-1884,New Mexico Territory,355,Taos,Taos,495,,,1
-1884,New Mexico Territory,355,Valencia,Valencia,555,,,1
 1884,Oregon,410,Baker,Baker,10,,81,7
 1884,Oregon,410,Benton,Benton,30,,,6
 1884,Oregon,410,Clackamas,Clackamas,50,,68,5
@@ -5110,59 +4087,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1884,Texas,480,Wood,Wood,4990,,155,12
 1884,Texas,480,Young,Young,5030,,36,1
 1884,Texas,480,Zavala,Zavala,5070,,5,
-1884,Utah Territory,495,Beaver,Beaver,15,,,3
-1884,Utah Territory,495,Box Elder,Box Elder,35,,,5
-1884,Utah Territory,495,Cache,Cache,55,,,8
-1884,Utah Territory,495,Juab,Juab,315,,,3
-1884,Utah Territory,495,Kane,Kane,335,,,2
-1884,Utah Territory,495,Millard,Millard,375,,,2
-1884,Utah Territory,495,Salt Lake,Salt Lake,495,,,48
-1884,Utah Territory,495,Sanpete,Sanpete,535,,,7
-1884,Utah Territory,495,Sevier,Sevier,555,,,11
-1884,Utah Territory,495,Summit,Summit,595,,,1
-1884,Utah Territory,495,Tooele,Tooele,615,,,1
-1884,Utah Territory,495,Utah,Utah,675,,,18
-1884,Utah Territory,495,Wasatch,Wasatch,715,,,1
-1884,Utah Territory,495,Washington,Washington,735,,,5
-1884,Utah Territory,495,Weber,Weber,755,"48,49",,
-1884,Washington Territory,535,Asotin,Asotin,5,50,7,
-1884,Washington Territory,535,Chihallis,Chihallis,15,50,,2
-1884,Washington Territory,535,Clallam,Clallam,35,50,,
-1884,Washington Territory,535,Clark,Clark,55,50,,7
-1884,Washington Territory,535,Columbia,Columbia,75,50,41,4
-1884,Washington Territory,535,Cowlitz,Cowlitz,95,50,,1
-1884,Washington Territory,535,Garfield,Garfield,105,50,24,
-1884,Washington Territory,535,Island,Island,115,50,,
-1884,Washington Territory,535,Jefferson,Jefferson,135,50,,3
-1884,Washington Territory,535,King,King,155,50,,22
-1884,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1884,Washington Territory,535,Klikatat,Klikatat,195,50,,1
-1884,Washington Territory,535,Lewis,Lewis,215,50,,
-1884,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1884,Washington Territory,535,Mason,Mason,235,50,,
-1884,Washington Territory,535,Pacific,Pacific,255,50,,1
-1884,Washington Territory,535,Pierce,Pierce,275,50,96,7
-1884,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1884,Washington Territory,535,San Juan,San Juan,315,50,,
-1884,Washington Territory,535,Skagit,Skagit,335,50,,4
-1884,Washington Territory,535,Skamania,Skamania,355,50,,
-1884,Washington Territory,535,Snohomish,Snohomish,395,50,,
-1884,Washington Territory,535,Spokane,Spokane,415,50,87,19
-1884,Washington Territory,535,Stevens,Stevens,435,50,,
-1884,Washington Territory,535,Thurston,Thurston,455,50,,3
-1884,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1884,Washington Territory,535,Walla Walla,Walla Walla,495,50,126,25
-1884,Washington Territory,535,Whatcom,Whatcom,515,50,,2
-1884,Washington Territory,535,Whitman,Whitman,535,50,52,8
-1884,Washington Territory,535,Yakima,Yakima,555,50,20,
-1885,Arizona Territory,45,Apache,Apache,15,,,3
-1885,Arizona Territory,45,Cochise,Cochise,35,,,1
-1885,Arizona Territory,45,Gila,Gila,75,,,5
-1885,Arizona Territory,45,Graham,Graham,95,,35,1
-1885,Arizona Territory,45,Maricopa,Maricopa,135,,,7
-1885,Arizona Territory,45,Mohave,Mohave,155,,9,1
-1885,Arizona Territory,45,Pima,Pima,195,,,3
-1885,Arizona Territory,45,Pinal,Pinal,215,,,1
 1885,California,60,Alameda,Alameda,10,,677,67
 1885,California,60,Alpine,Alpine,30,,,1
 1885,California,60,Amador,Amador,50,,64,13
@@ -5256,19 +4180,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1885,Nevada,320,Storey,Storey,290,,42,8
 1885,Nevada,320,Washoe,Washoe,310,,42,5
 1885,Nevada,320,White Pine,White Pine,330,3,,1
-1885,New Mexico Territory,355,Bernalillo,Bernalillo,35,,,2
-1885,New Mexico Territory,355,Colfax,Colfax,75,,,3
-1885,New Mexico Territory,355,Dona Ana,Dona Ana,115,,,2
-1885,New Mexico Territory,355,Grant,Grant,155,,,1
-1885,New Mexico Territory,355,Lincoln,Lincoln,195,,,2
-1885,New Mexico Territory,355,Mora,Mora,255,,,2
-1885,New Mexico Territory,355,Rio Arriba,Rio Arriba,315,,,4
-1885,New Mexico Territory,355,San Miguel,San Miguel,395,,,8
-1885,New Mexico Territory,355,Santa Fe,Santa Fe,435,,,3
-1885,New Mexico Territory,355,Sierra,Sierra,455,,,2
-1885,New Mexico Territory,355,Socorro,Socorro,475,,,7
-1885,New Mexico Territory,355,Taos,Taos,495,,,1
-1885,New Mexico Territory,355,Valencia,Valencia,555,,,2
 1885,Oregon,410,Baker,Baker,10,,90,4
 1885,Oregon,410,Benton,Benton,30,,,6
 1885,Oregon,410,Clackamas,Clackamas,50,,82,7
@@ -5457,59 +4368,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1885,Texas,480,Wood,Wood,4990,,151,6
 1885,Texas,480,Young,Young,5030,,58,
 1885,Texas,480,Zavala,Zavala,5070,,8,
-1885,Utah Territory,495,Beaver,Beaver,15,,,5
-1885,Utah Territory,495,Box Elder,Box Elder,35,,,6
-1885,Utah Territory,495,Cache,Cache,55,,,7
-1885,Utah Territory,495,Garfield,Garfield,175,,,1
-1885,Utah Territory,495,Juab,Juab,315,,,2
-1885,Utah Territory,495,Millard,Millard,375,,,1
-1885,Utah Territory,495,Piute,Piute,415,,,3
-1885,Utah Territory,495,Salt Lake,Salt Lake,495,,,49
-1885,Utah Territory,495,Sanpete,Sanpete,535,,,5
-1885,Utah Territory,495,Sevier,Sevier,555,,,5
-1885,Utah Territory,495,Summit,Summit,595,,,5
-1885,Utah Territory,495,Tooele,Tooele,615,,,3
-1885,Utah Territory,495,Utah,Utah,675,,,15
-1885,Utah Territory,495,Washington,Washington,735,,,3
-1885,Utah Territory,495,Weber,Weber,755,"48,49",,
-1885,Washington Territory,535,Asotin,Asotin,5,50,13,
-1885,Washington Territory,535,Chihallis,Chihallis,15,50,,1
-1885,Washington Territory,535,Clallam,Clallam,35,50,,
-1885,Washington Territory,535,Clark,Clark,55,50,,6
-1885,Washington Territory,535,Columbia,Columbia,75,50,60,3
-1885,Washington Territory,535,Cowlitz,Cowlitz,95,50,,3
-1885,Washington Territory,535,Garfield,Garfield,105,50,40,4
-1885,Washington Territory,535,Island,Island,115,50,,
-1885,Washington Territory,535,Jefferson,Jefferson,135,50,,6
-1885,Washington Territory,535,King,King,155,50,,12
-1885,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1885,Washington Territory,535,Klikatat,Klikatat,195,50,,2
-1885,Washington Territory,535,Lewis,Lewis,215,50,,1
-1885,Washington Territory,535,Lincoln,Lincoln,225,50,,
-1885,Washington Territory,535,Mason,Mason,235,50,,
-1885,Washington Territory,535,Pacific,Pacific,255,50,,2
-1885,Washington Territory,535,Pierce,Pierce,275,50,85,20
-1885,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1885,Washington Territory,535,San Juan,San Juan,315,50,,
-1885,Washington Territory,535,Skagit,Skagit,335,50,,
-1885,Washington Territory,535,Skamania,Skamania,355,50,,
-1885,Washington Territory,535,Snohomish,Snohomish,395,50,,2
-1885,Washington Territory,535,Spokane,Spokane,415,50,98,22
-1885,Washington Territory,535,Stevens,Stevens,435,50,,
-1885,Washington Territory,535,Thurston,Thurston,455,50,,7
-1885,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1885,Washington Territory,535,Walla Walla,Walla Walla,495,50,117,15
-1885,Washington Territory,535,Whatcom,Whatcom,515,50,,3
-1885,Washington Territory,535,Whitman,Whitman,535,50,80,5
-1885,Washington Territory,535,Yakima,Yakima,555,50,30,
-1886,Arizona Territory,45,Cochise,Cochise,35,,,8
-1886,Arizona Territory,45,Gila,Gila,75,,,4
-1886,Arizona Territory,45,Graham,Graham,95,,31,1
-1886,Arizona Territory,45,Maricopa,Maricopa,135,,,8
-1886,Arizona Territory,45,Mohave,Mohave,155,,4,
-1886,Arizona Territory,45,Pima,Pima,195,,,3
-1886,Arizona Territory,45,Pinal,Pinal,215,,,4
-1886,Arizona Territory,45,Yavapai,Yavapai,255,,,2
 1886,California,60,Alameda,Alameda,10,,651,82
 1886,California,60,Alpine,Alpine,30,,3,
 1886,California,60,Amador,Amador,50,,76,13
@@ -5606,16 +4464,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1886,Nevada,320,Storey,Storey,290,,39,10
 1886,Nevada,320,Washoe,Washoe,310,,61,10
 1886,Nevada,320,White Pine,White Pine,330,,,2
-1886,New Mexico Territory,355,Bernalillo,Bernalillo,35,,,5
-1886,New Mexico Territory,355,Colfax,Colfax,75,,,7
-1886,New Mexico Territory,355,Dona Ana,Dona Ana,115,,,3
-1886,New Mexico Territory,355,Grant,Grant,155,,,6
-1886,New Mexico Territory,355,Mora,Mora,255,,,1
-1886,New Mexico Territory,355,Rio Arriba,Rio Arriba,315,,,1
-1886,New Mexico Territory,355,San Miguel,San Miguel,395,,,8
-1886,New Mexico Territory,355,Santa Fe,Santa Fe,435,,,4
-1886,New Mexico Territory,355,Socorro,Socorro,475,,,4
-1886,New Mexico Territory,355,Taos,Taos,495,,,1
 1886,Oregon,410,Baker,Baker,10,,103,17
 1886,Oregon,410,Benton,Benton,30,,,6
 1886,Oregon,410,Clackamas,Clackamas,50,,88,6
@@ -5803,64 +4651,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1886,Texas,480,Wood,Wood,4990,,167,10
 1886,Texas,480,Young,Young,5030,,36,2
 1886,Texas,480,Zavala,Zavala,5070,,10,
-1886,Utah Territory,495,Beaver,Beaver,15,,,2
-1886,Utah Territory,495,Box Elder,Box Elder,35,,,4
-1886,Utah Territory,495,Cache,Cache,55,,,4
-1886,Utah Territory,495,Garfield,Garfield,175,,,1
-1886,Utah Territory,495,Juab,Juab,315,,,4
-1886,Utah Territory,495,Kane,Kane,335,,,1
-1886,Utah Territory,495,Millard,Millard,375,,,1
-1886,Utah Territory,495,Piute,Piute,415,,,5
-1886,Utah Territory,495,Rich,Rich,435,,,1
-1886,Utah Territory,495,Salt Lake,Salt Lake,495,,,34
-1886,Utah Territory,495,Sanpete,Sanpete,535,,,3
-1886,Utah Territory,495,Sevier,Sevier,555,,,9
-1886,Utah Territory,495,Summit,Summit,595,,,5
-1886,Utah Territory,495,Tooele,Tooele,615,,,2
-1886,Utah Territory,495,Utah,Utah,675,,,16
-1886,Utah Territory,495,Washington,Washington,735,,,2
-1886,Utah Territory,495,Weber,Weber,755,"48,49",,
-1886,Washington Territory,535,Asotin,Asotin,5,50,9,3
-1886,Washington Territory,535,Chihallis,Chihallis,15,50,,5
-1886,Washington Territory,535,Clallam,Clallam,35,50,,
-1886,Washington Territory,535,Clark,Clark,55,50,,10
-1886,Washington Territory,535,Columbia,Columbia,75,50,65,3
-1886,Washington Territory,535,Cowlitz,Cowlitz,95,50,,3
-1886,Washington Territory,535,Garfield,Garfield,105,50,30,5
-1886,Washington Territory,535,Island,Island,115,50,,
-1886,Washington Territory,535,Jefferson,Jefferson,135,50,,4
-1886,Washington Territory,535,King,King,155,50,,17
-1886,Washington Territory,535,Kitsap,Kitsap,175,50,,
-1886,Washington Territory,535,Klikatat,Klikatat,195,50,,1
-1886,Washington Territory,535,Lewis,Lewis,215,50,,9
-1886,Washington Territory,535,Lincoln,Lincoln,225,50,,1
-1886,Washington Territory,535,Mason,Mason,235,50,,
-1886,Washington Territory,535,Pacific,Pacific,255,50,,1
-1886,Washington Territory,535,Pierce,Pierce,275,50,114,20
-1886,Washington Territory,535,The Disputed Islands,The Disputed Islands,295,50,,
-1886,Washington Territory,535,San Juan,San Juan,315,50,,
-1886,Washington Territory,535,Skagit,Skagit,335,50,,2
-1886,Washington Territory,535,Skamania,Skamania,355,50,,
-1886,Washington Territory,535,Snohomish,Snohomish,395,50,,4
-1886,Washington Territory,535,Spokane,Spokane,415,50,103,11
-1886,Washington Territory,535,Stevens,Stevens,435,50,,
-1886,Washington Territory,535,Thurston,Thurston,455,50,,11
-1886,Washington Territory,535,Wahkiakum,Wahkiakum,475,50,,
-1886,Washington Territory,535,Walla Walla,Walla Walla,495,50,111,7
-1886,Washington Territory,535,Whatcom,Whatcom,515,50,,3
-1886,Washington Territory,535,Whitman,Whitman,535,50,77,8
-1886,Washington Territory,535,Yakima,Yakima,555,50,24,
-1890,Arizona Territory,45,Apache,Apache,15,,,2
-1890,Arizona Territory,45,Cochise,Cochise,35,,,12
-1890,Arizona Territory,45,Coconino,Coconino,55,66,,
-1890,Arizona Territory,45,Gila,Gila,75,,,2
-1890,Arizona Territory,45,Graham,Graham,95,,,2
-1890,Arizona Territory,45,Maricopa,Maricopa,135,,,11
-1890,Arizona Territory,45,Mohave,Mohave,155,,,2
-1890,Arizona Territory,45,Pima,Pima,195,,,12
-1890,Arizona Territory,45,Pinal,Pinal,215,,,3
-1890,Arizona Territory,45,Yavapai,Yavapai,255,66,,11
-1890,Arizona Territory,45,Yuma,Yuma,275,,,1
 1890,California,60,Alameda,Alameda,10,,,102
 1890,California,60,Alpine,Alpine,30,,,0
 1890,California,60,Amador,Amador,50,,,9
@@ -5976,20 +4766,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1890,Nevada,320,Storey,Storey,290,,,12
 1890,Nevada,320,Washoe,Washoe,310,,,10
 1890,Nevada,320,White Pine,White Pine,330,,,0
-1890,New Mexico Territory,355,Bernalillo,Bernalillo,35,,,12
-1890,New Mexico Territory,355,Colfax,Colfax,75,,,4
-1890,New Mexico Territory,355,Dona Ana,Dona Ana,115,,,4
-1890,New Mexico Territory,355,Grant,Grant,155,,,10
-1890,New Mexico Territory,355,Lincoln,Lincoln,195,,,7
-1890,New Mexico Territory,355,Mora,Mora,255,,,5
-1890,New Mexico Territory,355,Rio Arriba,Rio Arriba,315,,,1
-1890,New Mexico Territory,355,San Juan,San Juan,375,,,2
-1890,New Mexico Territory,355,San Miguel,San Miguel,395,,,12
-1890,New Mexico Territory,355,Santa Fe,Santa Fe,435,,,6
-1890,New Mexico Territory,355,Sierra,Sierra,455,,,5
-1890,New Mexico Territory,355,Socorro,Socorro,475,,,4
-1890,New Mexico Territory,355,Taos,Taos,495,,,1
-1890,New Mexico Territory,355,Valencia,Valencia,555,,,1
 1890,Oregon,410,Benton,Benton,30,,,12
 1890,Oregon,410,Clackamas,Clackamas,50,,,8
 1890,Oregon,410,Clatsop,Clatsop,70,,,9
@@ -6198,22 +4974,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1890,Utah,490,Carbon,Carbon,70,79,,
 1890,Utah,490,Emery,Emery,150,79,,
 1890,Utah,490,Grand,Grand,190,79,,
-1890,Utah Territory,495,Davis,Davis,115,,,3
-1890,Utah Territory,495,Emery,Emery,155,,,2
-1890,Utah Territory,495,Garfield,Garfield,175,,,1
-1890,Utah Territory,495,Iron,Iron,295,,,1
-1890,Utah Territory,495,Juab,Juab,315,,,3
-1890,Utah Territory,495,Millard,Millard,375,,,2
-1890,Utah Territory,495,Piute,Piute,415,,,1
-1890,Utah Territory,495,Salt Lake,Salt Lake,495,,,67
-1890,Utah Territory,495,Sanpete,Sanpete,535,,,5
-1890,Utah Territory,495,Sevier,Sevier,555,,,2
-1890,Utah Territory,495,Summit,Summit,595,,,4
-1890,Utah Territory,495,Tooele,Tooele,615,,,1
-1890,Utah Territory,495,Utah,Utah,675,,,17
-1890,Utah Territory,495,Wasatch,Wasatch,715,,,1
-1890,Utah Territory,495,Washington,Washington,735,,,2
-1890,Utah Territory,495,Weber,Weber,755,,,42
 1890,Washington,530,Adams,Adams,10,,,1
 1890,Washington,530,Asotin,Asotin,30,,,2
 1890,Washington,530,Chehalis,Chehalis,55,,,7
@@ -6246,19 +5006,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1890,Washington,530,Whatcom,Whatcom,730,,,19
 1890,Washington,530,Whitman,Whitman,750,,,16
 1890,Washington,530,Yakima,Yakima,770,,,3
-1900,Arizona Territory,45,Apache,Apache,15,,,2
-1900,Arizona Territory,45,Cochise,Cochise,35,,,16
-1900,Arizona Territory,45,Coconino,Coconino,55,,,8
-1900,Arizona Territory,45,Gila,Gila,75,,,9
-1900,Arizona Territory,45,Graham,Graham,95,,,17
-1900,Arizona Territory,45,Maricopa,Maricopa,135,,,34
-1900,Arizona Territory,45,Mohave,Mohave,155,,,6
-1900,Arizona Territory,45,Navajo,Navajo,175,,,4
-1900,Arizona Territory,45,Pima,Pima,195,67,,18
-1900,Arizona Territory,45,Pinal,Pinal,215,,,4
-1900,Arizona Territory,45,Santa Cruz,Santa Cruz,235,67,,
-1900,Arizona Territory,45,Yavapai,Yavapai,255,,,23
-1900,Arizona Territory,45,Yuma,Yuma,275,,,4
 1900,California,60,Alameda,Alameda,10,,,177
 1900,California,60,Amador,Amador,50,,,15
 1900,California,60,Butte,Butte,70,,,23
@@ -6379,24 +5126,6 @@ YEAR,STATE,STATECODE,COUNTY,AREA,COUNTYCODE,NOTECODE,MARRIAGES,DIVORCES
 1900,Nevada,320,Storey,Storey,290,,,4
 1900,Nevada,320,Washoe,Washoe,310,,,15
 1900,Nevada,320,White Pine,White Pine,330,,,3
-1900,New Mexico Territory,355,Bernalillo,Bernalillo,35,,,37
-1900,New Mexico Territory,355,Chaves,Chaves,55,,,8
-1900,New Mexico Territory,355,Colfax,Colfax,75,,,11
-1900,New Mexico Territory,355,Dona Ana,Dona Ana,115,,,6
-1900,New Mexico Territory,355,Eddy,Eddy,135,,,3
-1900,New Mexico Territory,355,Grant,Grant,155,,,13
-1900,New Mexico Territory,355,Guadalupe,Guadalupe,175,,,2
-1900,New Mexico Territory,355,Lincoln,Lincoln,195,,,6
-1900,New Mexico Territory,355,Mora,Mora,255,,,2
-1900,New Mexico Territory,355,Rio Arriba,Rio Arriba,315,,,2
-1900,New Mexico Territory,355,San Juan,San Juan,375,,,5
-1900,New Mexico Territory,355,San Miguel,San Miguel,395,,,14
-1900,New Mexico Territory,355,Santa Fe,Santa Fe,435,,,10
-1900,New Mexico Territory,355,Sierra,Sierra,455,,,2
-1900,New Mexico Territory,355,Socorro,Socorro,475,,,9
-1900,New Mexico Territory,355,Taos,Taos,495,,,2
-1900,New Mexico Territory,355,Union,Union,535,,,4
-1900,New Mexico Territory,355,Valencia,Valencia,555,,,2
 1900,Oregon,410,Baker,Baker,10,,,32
 1900,Oregon,410,Benton,Benton,30,,,5
 1900,Oregon,410,Clackamas,Clackamas,50,,,63
